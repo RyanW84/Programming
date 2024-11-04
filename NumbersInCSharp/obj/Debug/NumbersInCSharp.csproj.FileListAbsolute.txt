@@ -1,0 +1,7 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\NumbersInCSharp\bin\Debug\NumbersInCSharp.exe.config
+C:\Users\Ryanw\OneDrive\Desktop\Programming\NumbersInCSharp\bin\Debug\NumbersInCSharp.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\NumbersInCSharp\bin\Debug\NumbersInCSharp.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\NumbersInCSharp\obj\Debug\NumbersInCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\NumbersInCSharp\obj\Debug\NumbersInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\NumbersInCSharp\obj\Debug\NumbersInCSharp.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\NumbersInCSharp\obj\Debug\NumbersInCSharp.pdb

@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Joshys Jukebox\Joshy's Jukebox\bin\Debug\net8.0\JoshysJukebox.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Joshys Jukebox\Joshy's Jukebox\bin\Debug\net8.0\JoshysJukebox.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Joshys Jukebox\Joshy's Jukebox\bin\Debug\net8.0\JoshysJukebox.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Joshys Jukebox\Joshy's Jukebox\bin\Debug\net8.0\JoshysJukebox.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Joshys Jukebox\Joshy's Jukebox\bin\Debug\net8.0\JoshysJukebox.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Joshys Jukebox\Joshy's Jukebox\obj\Debug\net8.0\JoshysJukebox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Joshys Jukebox\Joshy's Jukebox\obj\Debug\net8.0\JoshysJukebox.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Joshys Jukebox\Joshy's Jukebox\obj\Debug\net8.0\JoshysJukebox.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Joshys Jukebox\Joshy's Jukebox\obj\Debug\net8.0\JoshysJukebox.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Joshys Jukebox\Joshy's Jukebox\obj\Debug\net8.0\JoshysJukebox.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Joshys Jukebox\Joshy's Jukebox\obj\Debug\net8.0\refint\JoshysJukebox.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Joshys Jukebox\Joshy's Jukebox\obj\Debug\net8.0\JoshysJukebox.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Joshys Jukebox\Joshy's Jukebox\obj\Debug\net8.0\JoshysJukebox.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Joshys Jukebox\Joshy's Jukebox\obj\Debug\net8.0\ref\JoshysJukebox.dll

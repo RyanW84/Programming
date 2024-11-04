@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeLongestCommonPrefix\PracticeLongestCommonPrefix\obj\Debug\net8.0\PracticeLongestCommonPrefix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeLongestCommonPrefix\PracticeLongestCommonPrefix\obj\Debug\net8.0\PracticeLongestCommonPrefix.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeLongestCommonPrefix\PracticeLongestCommonPrefix\obj\Debug\net8.0\PracticeLongestCommonPrefix.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeLongestCommonPrefix\PracticeLongestCommonPrefix\obj\Debug\net8.0\PracticeLongestCommonPrefix.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeLongestCommonPrefix\PracticeLongestCommonPrefix\bin\Debug\net8.0\PracticeLongestCommonPrefix.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeLongestCommonPrefix\PracticeLongestCommonPrefix\bin\Debug\net8.0\PracticeLongestCommonPrefix.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeLongestCommonPrefix\PracticeLongestCommonPrefix\bin\Debug\net8.0\PracticeLongestCommonPrefix.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeLongestCommonPrefix\PracticeLongestCommonPrefix\bin\Debug\net8.0\PracticeLongestCommonPrefix.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeLongestCommonPrefix\PracticeLongestCommonPrefix\bin\Debug\net8.0\PracticeLongestCommonPrefix.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeLongestCommonPrefix\PracticeLongestCommonPrefix\obj\Debug\net8.0\PracticeLongestCommonPrefix.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeLongestCommonPrefix\PracticeLongestCommonPrefix\obj\Debug\net8.0\refint\PracticeLongestCommonPrefix.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeLongestCommonPrefix\PracticeLongestCommonPrefix\obj\Debug\net8.0\PracticeLongestCommonPrefix.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeLongestCommonPrefix\PracticeLongestCommonPrefix\obj\Debug\net8.0\PracticeLongestCommonPrefix.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeLongestCommonPrefix\PracticeLongestCommonPrefix\obj\Debug\net8.0\ref\PracticeLongestCommonPrefix.dll

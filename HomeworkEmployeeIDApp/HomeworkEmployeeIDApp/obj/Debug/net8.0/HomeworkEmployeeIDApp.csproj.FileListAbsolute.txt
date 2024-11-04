@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkEmployeeIDApp\HomeworkEmployeeIDApp\bin\Debug\net8.0\HomeworkEmployeeIDApp.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkEmployeeIDApp\HomeworkEmployeeIDApp\bin\Debug\net8.0\HomeworkEmployeeIDApp.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkEmployeeIDApp\HomeworkEmployeeIDApp\bin\Debug\net8.0\HomeworkEmployeeIDApp.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkEmployeeIDApp\HomeworkEmployeeIDApp\bin\Debug\net8.0\HomeworkEmployeeIDApp.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkEmployeeIDApp\HomeworkEmployeeIDApp\bin\Debug\net8.0\HomeworkEmployeeIDApp.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkEmployeeIDApp\HomeworkEmployeeIDApp\obj\Debug\net8.0\HomeworkEmployeeIDApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkEmployeeIDApp\HomeworkEmployeeIDApp\obj\Debug\net8.0\HomeworkEmployeeIDApp.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkEmployeeIDApp\HomeworkEmployeeIDApp\obj\Debug\net8.0\HomeworkEmployeeIDApp.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkEmployeeIDApp\HomeworkEmployeeIDApp\obj\Debug\net8.0\HomeworkEmployeeIDApp.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkEmployeeIDApp\HomeworkEmployeeIDApp\obj\Debug\net8.0\HomeworkEmployeeIDApp.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkEmployeeIDApp\HomeworkEmployeeIDApp\obj\Debug\net8.0\refint\HomeworkEmployeeIDApp.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkEmployeeIDApp\HomeworkEmployeeIDApp\obj\Debug\net8.0\HomeworkEmployeeIDApp.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkEmployeeIDApp\HomeworkEmployeeIDApp\obj\Debug\net8.0\HomeworkEmployeeIDApp.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkEmployeeIDApp\HomeworkEmployeeIDApp\obj\Debug\net8.0\ref\HomeworkEmployeeIDApp.dll

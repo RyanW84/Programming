@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Ruths Calculations\bin\Debug\net6.0\Ruths Calculations.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Ruths Calculations\bin\Debug\net6.0\Ruths Calculations.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Ruths Calculations\bin\Debug\net6.0\Ruths Calculations.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Ruths Calculations\bin\Debug\net6.0\Ruths Calculations.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Ruths Calculations\bin\Debug\net6.0\ref\Ruths Calculations.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Ruths Calculations\bin\Debug\net6.0\Ruths Calculations.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Ruths Calculations\obj\Debug\net6.0\Ruths Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Ruths Calculations\obj\Debug\net6.0\Ruths Calculations.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Ruths Calculations\obj\Debug\net6.0\Ruths Calculations.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Ruths Calculations\obj\Debug\net6.0\Ruths Calculations.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Ruths Calculations\obj\Debug\net6.0\Ruths Calculations.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Ruths Calculations\obj\Debug\net6.0\ref\Ruths Calculations.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Ruths Calculations\obj\Debug\net6.0\Ruths Calculations.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Ruths Calculations\obj\Debug\net6.0\Ruths Calculations.genruntimeconfig.cache

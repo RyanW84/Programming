@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MethodsPracticeAreaCalculator/1.0.0": {
+        "runtime": {
+          "MethodsPracticeAreaCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MethodsPracticeAreaCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

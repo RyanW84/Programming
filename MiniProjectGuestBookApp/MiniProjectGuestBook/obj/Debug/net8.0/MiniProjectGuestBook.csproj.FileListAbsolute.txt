@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectGuestBookApp\MiniProjectGuestBook\bin\Debug\net8.0\MiniProjectGuestBook.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectGuestBookApp\MiniProjectGuestBook\bin\Debug\net8.0\MiniProjectGuestBook.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectGuestBookApp\MiniProjectGuestBook\bin\Debug\net8.0\MiniProjectGuestBook.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectGuestBookApp\MiniProjectGuestBook\bin\Debug\net8.0\MiniProjectGuestBook.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectGuestBookApp\MiniProjectGuestBook\bin\Debug\net8.0\MiniProjectGuestBook.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectGuestBookApp\MiniProjectGuestBook\obj\Debug\net8.0\MiniProjectGuestBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectGuestBookApp\MiniProjectGuestBook\obj\Debug\net8.0\MiniProjectGuestBook.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectGuestBookApp\MiniProjectGuestBook\obj\Debug\net8.0\MiniProjectGuestBook.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectGuestBookApp\MiniProjectGuestBook\obj\Debug\net8.0\MiniProjectGuestBook.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectGuestBookApp\MiniProjectGuestBook\obj\Debug\net8.0\MiniProjectGuestBook.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectGuestBookApp\MiniProjectGuestBook\obj\Debug\net8.0\refint\MiniProjectGuestBook.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectGuestBookApp\MiniProjectGuestBook\obj\Debug\net8.0\MiniProjectGuestBook.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectGuestBookApp\MiniProjectGuestBook\obj\Debug\net8.0\MiniProjectGuestBook.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectGuestBookApp\MiniProjectGuestBook\obj\Debug\net8.0\ref\MiniProjectGuestBook.dll

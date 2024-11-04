@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\StudentCheckApp\StudentCheck\bin\Debug\net8.0\StudentCheck.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\StudentCheckApp\StudentCheck\bin\Debug\net8.0\StudentCheck.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\StudentCheckApp\StudentCheck\bin\Debug\net8.0\StudentCheck.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\StudentCheckApp\StudentCheck\bin\Debug\net8.0\StudentCheck.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\StudentCheckApp\StudentCheck\bin\Debug\net8.0\StudentCheck.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\StudentCheckApp\StudentCheck\obj\Debug\net8.0\StudentCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\StudentCheckApp\StudentCheck\obj\Debug\net8.0\StudentCheck.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\StudentCheckApp\StudentCheck\obj\Debug\net8.0\StudentCheck.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\StudentCheckApp\StudentCheck\obj\Debug\net8.0\StudentCheck.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\StudentCheckApp\StudentCheck\obj\Debug\net8.0\StudentCheck.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\StudentCheckApp\StudentCheck\obj\Debug\net8.0\refint\StudentCheck.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\StudentCheckApp\StudentCheck\obj\Debug\net8.0\StudentCheck.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\StudentCheckApp\StudentCheck\obj\Debug\net8.0\StudentCheck.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\StudentCheckApp\StudentCheck\obj\Debug\net8.0\ref\StudentCheck.dll

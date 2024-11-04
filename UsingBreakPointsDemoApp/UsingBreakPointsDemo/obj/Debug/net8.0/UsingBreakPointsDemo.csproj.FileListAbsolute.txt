@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\UsingBreakPointsDemoApp\UsingBreakPointsDemo\bin\Debug\net8.0\UsingBreakPointsDemo.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\UsingBreakPointsDemoApp\UsingBreakPointsDemo\bin\Debug\net8.0\UsingBreakPointsDemo.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\UsingBreakPointsDemoApp\UsingBreakPointsDemo\bin\Debug\net8.0\UsingBreakPointsDemo.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\UsingBreakPointsDemoApp\UsingBreakPointsDemo\bin\Debug\net8.0\UsingBreakPointsDemo.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\UsingBreakPointsDemoApp\UsingBreakPointsDemo\bin\Debug\net8.0\UsingBreakPointsDemo.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\UsingBreakPointsDemoApp\UsingBreakPointsDemo\obj\Debug\net8.0\UsingBreakPointsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\UsingBreakPointsDemoApp\UsingBreakPointsDemo\obj\Debug\net8.0\UsingBreakPointsDemo.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\UsingBreakPointsDemoApp\UsingBreakPointsDemo\obj\Debug\net8.0\UsingBreakPointsDemo.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\UsingBreakPointsDemoApp\UsingBreakPointsDemo\obj\Debug\net8.0\UsingBreakPointsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\UsingBreakPointsDemoApp\UsingBreakPointsDemo\obj\Debug\net8.0\UsingBreakPointsDemo.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\UsingBreakPointsDemoApp\UsingBreakPointsDemo\obj\Debug\net8.0\refint\UsingBreakPointsDemo.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\UsingBreakPointsDemoApp\UsingBreakPointsDemo\obj\Debug\net8.0\UsingBreakPointsDemo.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\UsingBreakPointsDemoApp\UsingBreakPointsDemo\obj\Debug\net8.0\UsingBreakPointsDemo.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\UsingBreakPointsDemoApp\UsingBreakPointsDemo\obj\Debug\net8.0\ref\UsingBreakPointsDemo.dll

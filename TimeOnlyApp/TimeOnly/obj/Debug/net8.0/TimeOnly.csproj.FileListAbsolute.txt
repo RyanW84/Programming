@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\TimeOnlyApp\TimeOnly\bin\Debug\net8.0\TimeOnly.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\TimeOnlyApp\TimeOnly\bin\Debug\net8.0\TimeOnly.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\TimeOnlyApp\TimeOnly\bin\Debug\net8.0\TimeOnly.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\TimeOnlyApp\TimeOnly\bin\Debug\net8.0\TimeOnly.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\TimeOnlyApp\TimeOnly\bin\Debug\net8.0\TimeOnly.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\TimeOnlyApp\TimeOnly\obj\Debug\net8.0\TimeOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\TimeOnlyApp\TimeOnly\obj\Debug\net8.0\TimeOnly.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\TimeOnlyApp\TimeOnly\obj\Debug\net8.0\TimeOnly.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\TimeOnlyApp\TimeOnly\obj\Debug\net8.0\TimeOnly.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\TimeOnlyApp\TimeOnly\obj\Debug\net8.0\TimeOnly.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\TimeOnlyApp\TimeOnly\obj\Debug\net8.0\refint\TimeOnly.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\TimeOnlyApp\TimeOnly\obj\Debug\net8.0\TimeOnly.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\TimeOnlyApp\TimeOnly\obj\Debug\net8.0\TimeOnly.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\TimeOnlyApp\TimeOnly\obj\Debug\net8.0\ref\TimeOnly.dll

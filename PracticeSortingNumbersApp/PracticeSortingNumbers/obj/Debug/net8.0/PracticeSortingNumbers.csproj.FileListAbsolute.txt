@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSortingNumbersApp\PracticeSortingNumbers\bin\Debug\net8.0\PracticeSortingNumbers.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSortingNumbersApp\PracticeSortingNumbers\bin\Debug\net8.0\PracticeSortingNumbers.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSortingNumbersApp\PracticeSortingNumbers\bin\Debug\net8.0\PracticeSortingNumbers.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSortingNumbersApp\PracticeSortingNumbers\bin\Debug\net8.0\PracticeSortingNumbers.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSortingNumbersApp\PracticeSortingNumbers\bin\Debug\net8.0\PracticeSortingNumbers.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSortingNumbersApp\PracticeSortingNumbers\obj\Debug\net8.0\PracticeSortingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSortingNumbersApp\PracticeSortingNumbers\obj\Debug\net8.0\PracticeSortingNumbers.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSortingNumbersApp\PracticeSortingNumbers\obj\Debug\net8.0\PracticeSortingNumbers.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSortingNumbersApp\PracticeSortingNumbers\obj\Debug\net8.0\PracticeSortingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSortingNumbersApp\PracticeSortingNumbers\obj\Debug\net8.0\PracticeSortingNumbers.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSortingNumbersApp\PracticeSortingNumbers\obj\Debug\net8.0\refint\PracticeSortingNumbers.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSortingNumbersApp\PracticeSortingNumbers\obj\Debug\net8.0\PracticeSortingNumbers.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSortingNumbersApp\PracticeSortingNumbers\obj\Debug\net8.0\PracticeSortingNumbers.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSortingNumbersApp\PracticeSortingNumbers\obj\Debug\net8.0\ref\PracticeSortingNumbers.dll

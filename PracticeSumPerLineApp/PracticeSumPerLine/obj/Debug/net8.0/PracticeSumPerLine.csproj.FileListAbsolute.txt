@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSumPerLineApp\PracticeSumPerLine\bin\Debug\net8.0\PracticeSumPerLine.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSumPerLineApp\PracticeSumPerLine\bin\Debug\net8.0\PracticeSumPerLine.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSumPerLineApp\PracticeSumPerLine\bin\Debug\net8.0\PracticeSumPerLine.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSumPerLineApp\PracticeSumPerLine\bin\Debug\net8.0\PracticeSumPerLine.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSumPerLineApp\PracticeSumPerLine\bin\Debug\net8.0\PracticeSumPerLine.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSumPerLineApp\PracticeSumPerLine\obj\Debug\net8.0\PracticeSumPerLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSumPerLineApp\PracticeSumPerLine\obj\Debug\net8.0\PracticeSumPerLine.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSumPerLineApp\PracticeSumPerLine\obj\Debug\net8.0\PracticeSumPerLine.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSumPerLineApp\PracticeSumPerLine\obj\Debug\net8.0\PracticeSumPerLine.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSumPerLineApp\PracticeSumPerLine\obj\Debug\net8.0\PracticeSumPerLine.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSumPerLineApp\PracticeSumPerLine\obj\Debug\net8.0\refint\PracticeSumPerLine.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSumPerLineApp\PracticeSumPerLine\obj\Debug\net8.0\PracticeSumPerLine.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSumPerLineApp\PracticeSumPerLine\obj\Debug\net8.0\PracticeSumPerLine.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeSumPerLineApp\PracticeSumPerLine\obj\Debug\net8.0\ref\PracticeSumPerLine.dll

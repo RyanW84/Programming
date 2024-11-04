@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedBreakpointsDemo\AdvancedBreakpointsDemo\bin\Debug\net8.0\AdvancedBreakpointsDemo.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedBreakpointsDemo\AdvancedBreakpointsDemo\bin\Debug\net8.0\AdvancedBreakpointsDemo.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedBreakpointsDemo\AdvancedBreakpointsDemo\bin\Debug\net8.0\AdvancedBreakpointsDemo.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedBreakpointsDemo\AdvancedBreakpointsDemo\bin\Debug\net8.0\AdvancedBreakpointsDemo.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedBreakpointsDemo\AdvancedBreakpointsDemo\bin\Debug\net8.0\AdvancedBreakpointsDemo.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedBreakpointsDemo\AdvancedBreakpointsDemo\obj\Debug\net8.0\AdvancedBreakpointsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedBreakpointsDemo\AdvancedBreakpointsDemo\obj\Debug\net8.0\AdvancedBreakpointsDemo.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedBreakpointsDemo\AdvancedBreakpointsDemo\obj\Debug\net8.0\AdvancedBreakpointsDemo.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedBreakpointsDemo\AdvancedBreakpointsDemo\obj\Debug\net8.0\AdvancedBreakpointsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedBreakpointsDemo\AdvancedBreakpointsDemo\obj\Debug\net8.0\AdvancedBreakpointsDemo.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedBreakpointsDemo\AdvancedBreakpointsDemo\obj\Debug\net8.0\refint\AdvancedBreakpointsDemo.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedBreakpointsDemo\AdvancedBreakpointsDemo\obj\Debug\net8.0\AdvancedBreakpointsDemo.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedBreakpointsDemo\AdvancedBreakpointsDemo\obj\Debug\net8.0\AdvancedBreakpointsDemo.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedBreakpointsDemo\AdvancedBreakpointsDemo\obj\Debug\net8.0\ref\AdvancedBreakpointsDemo.dll

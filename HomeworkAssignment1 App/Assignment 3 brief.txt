@@ -1,0 +1,3 @@
+Assignment 3 brief
+
+Create a console application that asks the user for their name. Welcome me (Tim) as professor or anyone else as a student. Make sure that "TIM" also gets called professor.

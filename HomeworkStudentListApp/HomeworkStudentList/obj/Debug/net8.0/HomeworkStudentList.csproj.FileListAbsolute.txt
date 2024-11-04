@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkStudentListApp\HomeworkStudentList\obj\Debug\net8.0\HomeworkStudentList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkStudentListApp\HomeworkStudentList\obj\Debug\net8.0\HomeworkStudentList.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkStudentListApp\HomeworkStudentList\obj\Debug\net8.0\HomeworkStudentList.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkStudentListApp\HomeworkStudentList\obj\Debug\net8.0\HomeworkStudentList.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkStudentListApp\HomeworkStudentList\bin\Debug\net8.0\HomeworkStudentList.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkStudentListApp\HomeworkStudentList\bin\Debug\net8.0\HomeworkStudentList.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkStudentListApp\HomeworkStudentList\bin\Debug\net8.0\HomeworkStudentList.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkStudentListApp\HomeworkStudentList\bin\Debug\net8.0\HomeworkStudentList.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkStudentListApp\HomeworkStudentList\bin\Debug\net8.0\HomeworkStudentList.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkStudentListApp\HomeworkStudentList\obj\Debug\net8.0\HomeworkStudentList.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkStudentListApp\HomeworkStudentList\obj\Debug\net8.0\refint\HomeworkStudentList.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkStudentListApp\HomeworkStudentList\obj\Debug\net8.0\HomeworkStudentList.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkStudentListApp\HomeworkStudentList\obj\Debug\net8.0\HomeworkStudentList.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkStudentListApp\HomeworkStudentList\obj\Debug\net8.0\ref\HomeworkStudentList.dll

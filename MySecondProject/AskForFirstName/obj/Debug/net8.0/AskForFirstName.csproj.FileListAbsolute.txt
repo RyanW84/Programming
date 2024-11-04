@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MySecondProject\AskForFirstName\bin\Debug\net8.0\AskForFirstName.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MySecondProject\AskForFirstName\bin\Debug\net8.0\AskForFirstName.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MySecondProject\AskForFirstName\bin\Debug\net8.0\AskForFirstName.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MySecondProject\AskForFirstName\bin\Debug\net8.0\AskForFirstName.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MySecondProject\AskForFirstName\bin\Debug\net8.0\AskForFirstName.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MySecondProject\AskForFirstName\obj\Debug\net8.0\AskForFirstName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MySecondProject\AskForFirstName\obj\Debug\net8.0\AskForFirstName.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MySecondProject\AskForFirstName\obj\Debug\net8.0\AskForFirstName.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MySecondProject\AskForFirstName\obj\Debug\net8.0\AskForFirstName.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MySecondProject\AskForFirstName\obj\Debug\net8.0\AskForFirstName.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MySecondProject\AskForFirstName\obj\Debug\net8.0\refint\AskForFirstName.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MySecondProject\AskForFirstName\obj\Debug\net8.0\AskForFirstName.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MySecondProject\AskForFirstName\obj\Debug\net8.0\AskForFirstName.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MySecondProject\AskForFirstName\obj\Debug\net8.0\ref\AskForFirstName.dll

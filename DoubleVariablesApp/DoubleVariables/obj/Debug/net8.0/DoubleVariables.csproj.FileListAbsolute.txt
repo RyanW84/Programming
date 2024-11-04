@@ -1,0 +1,14 @@
+C:\Users\Ryanw\source\repos\DoubleVariablesApp\DoubleVariables\bin\Debug\net8.0\DoubleVariables.exe
+C:\Users\Ryanw\source\repos\DoubleVariablesApp\DoubleVariables\bin\Debug\net8.0\DoubleVariables.deps.json
+C:\Users\Ryanw\source\repos\DoubleVariablesApp\DoubleVariables\bin\Debug\net8.0\DoubleVariables.runtimeconfig.json
+C:\Users\Ryanw\source\repos\DoubleVariablesApp\DoubleVariables\bin\Debug\net8.0\DoubleVariables.dll
+C:\Users\Ryanw\source\repos\DoubleVariablesApp\DoubleVariables\bin\Debug\net8.0\DoubleVariables.pdb
+C:\Users\Ryanw\source\repos\DoubleVariablesApp\DoubleVariables\obj\Debug\net8.0\DoubleVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\source\repos\DoubleVariablesApp\DoubleVariables\obj\Debug\net8.0\DoubleVariables.AssemblyInfoInputs.cache
+C:\Users\Ryanw\source\repos\DoubleVariablesApp\DoubleVariables\obj\Debug\net8.0\DoubleVariables.AssemblyInfo.cs
+C:\Users\Ryanw\source\repos\DoubleVariablesApp\DoubleVariables\obj\Debug\net8.0\DoubleVariables.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\source\repos\DoubleVariablesApp\DoubleVariables\obj\Debug\net8.0\DoubleVariables.dll
+C:\Users\Ryanw\source\repos\DoubleVariablesApp\DoubleVariables\obj\Debug\net8.0\refint\DoubleVariables.dll
+C:\Users\Ryanw\source\repos\DoubleVariablesApp\DoubleVariables\obj\Debug\net8.0\DoubleVariables.pdb
+C:\Users\Ryanw\source\repos\DoubleVariablesApp\DoubleVariables\obj\Debug\net8.0\DoubleVariables.genruntimeconfig.cache
+C:\Users\Ryanw\source\repos\DoubleVariablesApp\DoubleVariables\obj\Debug\net8.0\ref\DoubleVariables.dll

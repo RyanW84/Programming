@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ryanw\\OneDrive\\Desktop\\Programming\\ListsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{964A4659-DA73-4734-972D-5F9919912101}|Lists\\Lists.csproj|c:\\users\\ryanw\\onedrive\\desktop\\programming\\listsapp\\lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964A4659-DA73-4734-972D-5F9919912101}|Lists\\Lists.csproj|solutionrelative:lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ryanw\\OneDrive\\Desktop\\Programming\\ListsApp\\Lists\\Program.cs",
+              "RelativeDocumentMoniker": "Lists\\Program.cs",
+              "ToolTip": "C:\\Users\\Ryanw\\OneDrive\\Desktop\\Programming\\ListsApp\\Lists\\Program.cs",
+              "RelativeToolTip": "Lists\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T20:14:58.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

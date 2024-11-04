@@ -1,0 +1,8 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\RuthsCarpentryCalculator\bin\Debug\RuthsCarpentryCalculator.exe.config
+C:\Users\Ryanw\OneDrive\Desktop\Programming\RuthsCarpentryCalculator\bin\Debug\RuthsCarpentryCalculator.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\RuthsCarpentryCalculator\bin\Debug\RuthsCarpentryCalculator.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\RuthsCarpentryCalculator\obj\Debug\RuthsCarpentryCalculator.csproj.AssemblyReference.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\RuthsCarpentryCalculator\obj\Debug\RuthsCarpentryCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\RuthsCarpentryCalculator\obj\Debug\RuthsCarpentryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\RuthsCarpentryCalculator\obj\Debug\RuthsCarpentryCalculator.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\RuthsCarpentryCalculator\obj\Debug\RuthsCarpentryCalculator.pdb

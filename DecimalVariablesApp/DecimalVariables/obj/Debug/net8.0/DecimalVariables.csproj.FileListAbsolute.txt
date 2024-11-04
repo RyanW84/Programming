@@ -1,0 +1,14 @@
+C:\Users\Ryanw\source\repos\DecimalVariablesApp\DecimalVariables\bin\Debug\net8.0\DecimalVariables.exe
+C:\Users\Ryanw\source\repos\DecimalVariablesApp\DecimalVariables\bin\Debug\net8.0\DecimalVariables.deps.json
+C:\Users\Ryanw\source\repos\DecimalVariablesApp\DecimalVariables\bin\Debug\net8.0\DecimalVariables.runtimeconfig.json
+C:\Users\Ryanw\source\repos\DecimalVariablesApp\DecimalVariables\bin\Debug\net8.0\DecimalVariables.dll
+C:\Users\Ryanw\source\repos\DecimalVariablesApp\DecimalVariables\bin\Debug\net8.0\DecimalVariables.pdb
+C:\Users\Ryanw\source\repos\DecimalVariablesApp\DecimalVariables\obj\Debug\net8.0\DecimalVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\source\repos\DecimalVariablesApp\DecimalVariables\obj\Debug\net8.0\DecimalVariables.AssemblyInfoInputs.cache
+C:\Users\Ryanw\source\repos\DecimalVariablesApp\DecimalVariables\obj\Debug\net8.0\DecimalVariables.AssemblyInfo.cs
+C:\Users\Ryanw\source\repos\DecimalVariablesApp\DecimalVariables\obj\Debug\net8.0\DecimalVariables.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\source\repos\DecimalVariablesApp\DecimalVariables\obj\Debug\net8.0\DecimalVariables.dll
+C:\Users\Ryanw\source\repos\DecimalVariablesApp\DecimalVariables\obj\Debug\net8.0\refint\DecimalVariables.dll
+C:\Users\Ryanw\source\repos\DecimalVariablesApp\DecimalVariables\obj\Debug\net8.0\DecimalVariables.pdb
+C:\Users\Ryanw\source\repos\DecimalVariablesApp\DecimalVariables\obj\Debug\net8.0\DecimalVariables.genruntimeconfig.cache
+C:\Users\Ryanw\source\repos\DecimalVariablesApp\DecimalVariables\obj\Debug\net8.0\ref\DecimalVariables.dll

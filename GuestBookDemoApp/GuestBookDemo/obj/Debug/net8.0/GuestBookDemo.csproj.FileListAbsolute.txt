@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\GuestBookDemoApp\GuestBookDemo\bin\Debug\net8.0\GuestBookDemo.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\GuestBookDemoApp\GuestBookDemo\bin\Debug\net8.0\GuestBookDemo.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\GuestBookDemoApp\GuestBookDemo\bin\Debug\net8.0\GuestBookDemo.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\GuestBookDemoApp\GuestBookDemo\bin\Debug\net8.0\GuestBookDemo.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\GuestBookDemoApp\GuestBookDemo\bin\Debug\net8.0\GuestBookDemo.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\GuestBookDemoApp\GuestBookDemo\obj\Debug\net8.0\GuestBookDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\GuestBookDemoApp\GuestBookDemo\obj\Debug\net8.0\GuestBookDemo.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\GuestBookDemoApp\GuestBookDemo\obj\Debug\net8.0\GuestBookDemo.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\GuestBookDemoApp\GuestBookDemo\obj\Debug\net8.0\GuestBookDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\GuestBookDemoApp\GuestBookDemo\obj\Debug\net8.0\GuestBookDemo.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\GuestBookDemoApp\GuestBookDemo\obj\Debug\net8.0\refint\GuestBookDemo.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\GuestBookDemoApp\GuestBookDemo\obj\Debug\net8.0\GuestBookDemo.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\GuestBookDemoApp\GuestBookDemo\obj\Debug\net8.0\GuestBookDemo.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\GuestBookDemoApp\GuestBookDemo\obj\Debug\net8.0\ref\GuestBookDemo.dll

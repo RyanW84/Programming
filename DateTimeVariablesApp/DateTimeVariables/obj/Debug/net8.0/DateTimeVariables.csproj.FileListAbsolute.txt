@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateTimeVariablesApp\DateTimeVariables\bin\Debug\net8.0\DateTimeVariables.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateTimeVariablesApp\DateTimeVariables\bin\Debug\net8.0\DateTimeVariables.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateTimeVariablesApp\DateTimeVariables\bin\Debug\net8.0\DateTimeVariables.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateTimeVariablesApp\DateTimeVariables\bin\Debug\net8.0\DateTimeVariables.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateTimeVariablesApp\DateTimeVariables\bin\Debug\net8.0\DateTimeVariables.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net8.0\DateTimeVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net8.0\DateTimeVariables.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net8.0\DateTimeVariables.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net8.0\DateTimeVariables.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net8.0\DateTimeVariables.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net8.0\refint\DateTimeVariables.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net8.0\DateTimeVariables.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net8.0\DateTimeVariables.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net8.0\ref\DateTimeVariables.dll

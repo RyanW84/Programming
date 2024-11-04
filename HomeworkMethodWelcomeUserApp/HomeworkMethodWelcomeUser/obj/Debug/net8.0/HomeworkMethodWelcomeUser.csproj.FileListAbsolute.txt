@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkMethodWelcomeUserApp\HomeworkMethodWelcomeUser\bin\Debug\net8.0\HomeworkMethodWelcomeUser.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkMethodWelcomeUserApp\HomeworkMethodWelcomeUser\bin\Debug\net8.0\HomeworkMethodWelcomeUser.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkMethodWelcomeUserApp\HomeworkMethodWelcomeUser\bin\Debug\net8.0\HomeworkMethodWelcomeUser.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkMethodWelcomeUserApp\HomeworkMethodWelcomeUser\bin\Debug\net8.0\HomeworkMethodWelcomeUser.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkMethodWelcomeUserApp\HomeworkMethodWelcomeUser\bin\Debug\net8.0\HomeworkMethodWelcomeUser.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkMethodWelcomeUserApp\HomeworkMethodWelcomeUser\obj\Debug\net8.0\HomeworkMethodWelcomeUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkMethodWelcomeUserApp\HomeworkMethodWelcomeUser\obj\Debug\net8.0\HomeworkMethodWelcomeUser.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkMethodWelcomeUserApp\HomeworkMethodWelcomeUser\obj\Debug\net8.0\HomeworkMethodWelcomeUser.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkMethodWelcomeUserApp\HomeworkMethodWelcomeUser\obj\Debug\net8.0\HomeworkMethodWelcomeUser.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkMethodWelcomeUserApp\HomeworkMethodWelcomeUser\obj\Debug\net8.0\HomeworkMethodWelcomeUser.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkMethodWelcomeUserApp\HomeworkMethodWelcomeUser\obj\Debug\net8.0\refint\HomeworkMethodWelcomeUser.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkMethodWelcomeUserApp\HomeworkMethodWelcomeUser\obj\Debug\net8.0\HomeworkMethodWelcomeUser.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkMethodWelcomeUserApp\HomeworkMethodWelcomeUser\obj\Debug\net8.0\HomeworkMethodWelcomeUser.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkMethodWelcomeUserApp\HomeworkMethodWelcomeUser\obj\Debug\net8.0\ref\HomeworkMethodWelcomeUser.dll

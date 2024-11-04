@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ForEachLoopApp\ForEachLoop\bin\Debug\net8.0\ForEachLoop.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ForEachLoopApp\ForEachLoop\bin\Debug\net8.0\ForEachLoop.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ForEachLoopApp\ForEachLoop\bin\Debug\net8.0\ForEachLoop.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ForEachLoopApp\ForEachLoop\bin\Debug\net8.0\ForEachLoop.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ForEachLoopApp\ForEachLoop\bin\Debug\net8.0\ForEachLoop.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ForEachLoopApp\ForEachLoop\obj\Debug\net8.0\ForEachLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ForEachLoopApp\ForEachLoop\obj\Debug\net8.0\ForEachLoop.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ForEachLoopApp\ForEachLoop\obj\Debug\net8.0\ForEachLoop.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ForEachLoopApp\ForEachLoop\obj\Debug\net8.0\ForEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ForEachLoopApp\ForEachLoop\obj\Debug\net8.0\ForEachLoop.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ForEachLoopApp\ForEachLoop\obj\Debug\net8.0\refint\ForEachLoop.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ForEachLoopApp\ForEachLoop\obj\Debug\net8.0\ForEachLoop.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ForEachLoopApp\ForEachLoop\obj\Debug\net8.0\ForEachLoop.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ForEachLoopApp\ForEachLoop\obj\Debug\net8.0\ref\ForEachLoop.dll

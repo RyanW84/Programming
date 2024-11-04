@@ -1,0 +1,32 @@
+full form
+
+<!DOCTYPE html>
+<html>
+    <body>
+        <!-- Write code below this line -->
+        <form id="practiceForm" action="https://jsonplaceholder.typicode.com/todos" method = "post">
+        <input type="text" name="firstName" id="firstName" placeholder="First Name">
+        <label for="firstName" id="firstNameLabel">First Name</label>
+            <br>
+        <input type="text" name="lastName" id="lastName" placeholder="Last Name">
+        <label for="lastName" id="lastNameLabel">Last Name</label>
+            <br>
+        <input type="email" name="email" id="email" placeholder="E-mail">
+        <label for="email" id="emailLabel">E-Mail</label>
+            <br>
+        <input type="number" name="age" id="age" placeholder="Age" min="0">
+        <label for="age" id="ageLabel">Age</label>
+            <br>
+        <input type="radio" name="gender" id="male">
+        <label for="male" id="maleLabel">Male</label>
+            <br>
+        <input type="radio" name="gender" id="female">
+        <label for="female" id="femaleLabel">Female</label>
+            <br>
+        <input type="range" name="satisfaction" id="satisfaction" min="0" max="11">
+        <label for="range" id="satisfactionLabel">Satisfaction</label>
+            <br>
+        <input type="submit" name="submit" id="submit" method="POST">
+        </form>
+    </body>
+</html>

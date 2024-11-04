@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateOnlyVariablesApp\DateOnlyVariables\bin\Debug\net8.0\DateOnlyVariables.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateOnlyVariablesApp\DateOnlyVariables\bin\Debug\net8.0\DateOnlyVariables.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateOnlyVariablesApp\DateOnlyVariables\bin\Debug\net8.0\DateOnlyVariables.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateOnlyVariablesApp\DateOnlyVariables\bin\Debug\net8.0\DateOnlyVariables.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateOnlyVariablesApp\DateOnlyVariables\bin\Debug\net8.0\DateOnlyVariables.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateOnlyVariablesApp\DateOnlyVariables\obj\Debug\net8.0\DateOnlyVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateOnlyVariablesApp\DateOnlyVariables\obj\Debug\net8.0\DateOnlyVariables.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateOnlyVariablesApp\DateOnlyVariables\obj\Debug\net8.0\DateOnlyVariables.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateOnlyVariablesApp\DateOnlyVariables\obj\Debug\net8.0\DateOnlyVariables.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateOnlyVariablesApp\DateOnlyVariables\obj\Debug\net8.0\DateOnlyVariables.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateOnlyVariablesApp\DateOnlyVariables\obj\Debug\net8.0\refint\DateOnlyVariables.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateOnlyVariablesApp\DateOnlyVariables\obj\Debug\net8.0\DateOnlyVariables.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateOnlyVariablesApp\DateOnlyVariables\obj\Debug\net8.0\DateOnlyVariables.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DateOnlyVariablesApp\DateOnlyVariables\obj\Debug\net8.0\ref\DateOnlyVariables.dll

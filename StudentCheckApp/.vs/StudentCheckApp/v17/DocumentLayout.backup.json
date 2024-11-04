@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ryanw\\OneDrive\\Desktop\\Programming\\StudentCheckApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70A061FC-8DBE-45AF-B498-2BA84C40DD42}|StudentCheck\\StudentCheck.csproj|c:\\users\\ryanw\\onedrive\\desktop\\programming\\studentcheckapp\\studentcheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A061FC-8DBE-45AF-B498-2BA84C40DD42}|StudentCheck\\StudentCheck.csproj|solutionrelative:studentcheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ryanw\\OneDrive\\Desktop\\Programming\\StudentCheckApp\\StudentCheck\\Program.cs",
+              "RelativeDocumentMoniker": "StudentCheck\\Program.cs",
+              "ToolTip": "C:\\Users\\Ryanw\\OneDrive\\Desktop\\Programming\\StudentCheckApp\\StudentCheck\\Program.cs",
+              "RelativeToolTip": "StudentCheck\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:01:46.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

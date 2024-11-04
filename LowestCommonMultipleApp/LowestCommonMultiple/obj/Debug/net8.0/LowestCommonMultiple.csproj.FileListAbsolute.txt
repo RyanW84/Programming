@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\LowestCommonMultipleApp\LowestCommonMultiple\obj\Debug\net8.0\LowestCommonMultiple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\LowestCommonMultipleApp\LowestCommonMultiple\obj\Debug\net8.0\LowestCommonMultiple.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\LowestCommonMultipleApp\LowestCommonMultiple\obj\Debug\net8.0\LowestCommonMultiple.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\LowestCommonMultipleApp\LowestCommonMultiple\obj\Debug\net8.0\LowestCommonMultiple.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\LowestCommonMultipleApp\LowestCommonMultiple\bin\Debug\net8.0\LowestCommonMultiple.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\LowestCommonMultipleApp\LowestCommonMultiple\bin\Debug\net8.0\LowestCommonMultiple.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\LowestCommonMultipleApp\LowestCommonMultiple\bin\Debug\net8.0\LowestCommonMultiple.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\LowestCommonMultipleApp\LowestCommonMultiple\bin\Debug\net8.0\LowestCommonMultiple.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\LowestCommonMultipleApp\LowestCommonMultiple\bin\Debug\net8.0\LowestCommonMultiple.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\LowestCommonMultipleApp\LowestCommonMultiple\obj\Debug\net8.0\LowestCommonMultiple.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\LowestCommonMultipleApp\LowestCommonMultiple\obj\Debug\net8.0\refint\LowestCommonMultiple.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\LowestCommonMultipleApp\LowestCommonMultiple\obj\Debug\net8.0\LowestCommonMultiple.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\LowestCommonMultipleApp\LowestCommonMultiple\obj\Debug\net8.0\LowestCommonMultiple.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\LowestCommonMultipleApp\LowestCommonMultiple\obj\Debug\net8.0\ref\LowestCommonMultiple.dll

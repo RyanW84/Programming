@@ -1,0 +1,11 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeMethodFibonacciApp\PracticeMethodFibonacci\bin\Debug\net8.0-windows\PracticeMethodFibonacci.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeMethodFibonacciApp\PracticeMethodFibonacci\bin\Debug\net8.0-windows\PracticeMethodFibonacci.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeMethodFibonacciApp\PracticeMethodFibonacci\bin\Debug\net8.0-windows\PracticeMethodFibonacci.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeMethodFibonacciApp\PracticeMethodFibonacci\obj\Debug\net8.0-windows\PracticeMethodFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeMethodFibonacciApp\PracticeMethodFibonacci\obj\Debug\net8.0-windows\PracticeMethodFibonacci.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeMethodFibonacciApp\PracticeMethodFibonacci\obj\Debug\net8.0-windows\PracticeMethodFibonacci.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeMethodFibonacciApp\PracticeMethodFibonacci\obj\Debug\net8.0-windows\PracticeMethodFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeMethodFibonacciApp\PracticeMethodFibonacci\obj\Debug\net8.0-windows\PracticeMethodFibonacci.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeMethodFibonacciApp\PracticeMethodFibonacci\obj\Debug\net8.0-windows\refint\PracticeMethodFibonacci.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeMethodFibonacciApp\PracticeMethodFibonacci\obj\Debug\net8.0-windows\PracticeMethodFibonacci.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeMethodFibonacciApp\PracticeMethodFibonacci\obj\Debug\net8.0-windows\ref\PracticeMethodFibonacci.dll

@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\BasicIfApp\BasicIf\bin\Debug\net8.0\BasicIf.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\BasicIfApp\BasicIf\bin\Debug\net8.0\BasicIf.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\BasicIfApp\BasicIf\bin\Debug\net8.0\BasicIf.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\BasicIfApp\BasicIf\bin\Debug\net8.0\BasicIf.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\BasicIfApp\BasicIf\bin\Debug\net8.0\BasicIf.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\BasicIfApp\BasicIf\obj\Debug\net8.0\BasicIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\BasicIfApp\BasicIf\obj\Debug\net8.0\BasicIf.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\BasicIfApp\BasicIf\obj\Debug\net8.0\BasicIf.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\BasicIfApp\BasicIf\obj\Debug\net8.0\BasicIf.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\BasicIfApp\BasicIf\obj\Debug\net8.0\BasicIf.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\BasicIfApp\BasicIf\obj\Debug\net8.0\refint\BasicIf.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\BasicIfApp\BasicIf\obj\Debug\net8.0\BasicIf.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\BasicIfApp\BasicIf\obj\Debug\net8.0\BasicIf.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\BasicIfApp\BasicIf\obj\Debug\net8.0\ref\BasicIf.dll

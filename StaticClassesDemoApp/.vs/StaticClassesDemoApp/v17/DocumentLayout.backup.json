@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ryanw\\OneDrive\\Desktop\\Programming\\StaticClassesDemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC00DB3-3452-43CD-992B-6063AC4E8B1E}|StaticClassesDemo\\StaticClassesDemo.csproj|c:\\users\\ryanw\\onedrive\\desktop\\programming\\staticclassesdemoapp\\staticclassesdemo\\calculatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC00DB3-3452-43CD-992B-6063AC4E8B1E}|StaticClassesDemo\\StaticClassesDemo.csproj|solutionrelative:staticclassesdemo\\calculatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC00DB3-3452-43CD-992B-6063AC4E8B1E}|StaticClassesDemo\\StaticClassesDemo.csproj|c:\\users\\ryanw\\onedrive\\desktop\\programming\\staticclassesdemoapp\\staticclassesdemo\\requestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC00DB3-3452-43CD-992B-6063AC4E8B1E}|StaticClassesDemo\\StaticClassesDemo.csproj|solutionrelative:staticclassesdemo\\requestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC00DB3-3452-43CD-992B-6063AC4E8B1E}|StaticClassesDemo\\StaticClassesDemo.csproj|c:\\users\\ryanw\\onedrive\\desktop\\programming\\staticclassesdemoapp\\staticclassesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC00DB3-3452-43CD-992B-6063AC4E8B1E}|StaticClassesDemo\\StaticClassesDemo.csproj|solutionrelative:staticclassesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC00DB3-3452-43CD-992B-6063AC4E8B1E}|StaticClassesDemo\\StaticClassesDemo.csproj|c:\\users\\ryanw\\onedrive\\desktop\\programming\\staticclassesdemoapp\\staticclassesdemo\\usermessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC00DB3-3452-43CD-992B-6063AC4E8B1E}|StaticClassesDemo\\StaticClassesDemo.csproj|solutionrelative:staticclassesdemo\\usermessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculateData.cs",
+              "DocumentMoniker": "C:\\Users\\Ryanw\\OneDrive\\Desktop\\Programming\\StaticClassesDemoApp\\StaticClassesDemo\\CalculateData.cs",
+              "RelativeDocumentMoniker": "StaticClassesDemo\\CalculateData.cs",
+              "ToolTip": "C:\\Users\\Ryanw\\OneDrive\\Desktop\\Programming\\StaticClassesDemoApp\\StaticClassesDemo\\CalculateData.cs",
+              "RelativeToolTip": "StaticClassesDemo\\CalculateData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:14:50.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestData.cs",
+              "DocumentMoniker": "C:\\Users\\Ryanw\\OneDrive\\Desktop\\Programming\\StaticClassesDemoApp\\StaticClassesDemo\\RequestData.cs",
+              "RelativeDocumentMoniker": "StaticClassesDemo\\RequestData.cs",
+              "ToolTip": "C:\\Users\\Ryanw\\OneDrive\\Desktop\\Programming\\StaticClassesDemoApp\\StaticClassesDemo\\RequestData.cs",
+              "RelativeToolTip": "StaticClassesDemo\\RequestData.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:04:57.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserMessages.cs",
+              "DocumentMoniker": "C:\\Users\\Ryanw\\OneDrive\\Desktop\\Programming\\StaticClassesDemoApp\\StaticClassesDemo\\UserMessages.cs",
+              "RelativeDocumentMoniker": "StaticClassesDemo\\UserMessages.cs",
+              "ToolTip": "C:\\Users\\Ryanw\\OneDrive\\Desktop\\Programming\\StaticClassesDemoApp\\StaticClassesDemo\\UserMessages.cs",
+              "RelativeToolTip": "StaticClassesDemo\\UserMessages.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T20:39:43.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ryanw\\OneDrive\\Desktop\\Programming\\StaticClassesDemoApp\\StaticClassesDemo\\Program.cs",
+              "RelativeDocumentMoniker": "StaticClassesDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Ryanw\\OneDrive\\Desktop\\Programming\\StaticClassesDemoApp\\StaticClassesDemo\\Program.cs",
+              "RelativeToolTip": "StaticClassesDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T20:34:17.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 59,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

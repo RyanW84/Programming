@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedExceptionsDemoApp\AdvancedExceptionsDemo\bin\Debug\net8.0\AdvancedExceptionsDemo.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedExceptionsDemoApp\AdvancedExceptionsDemo\bin\Debug\net8.0\AdvancedExceptionsDemo.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedExceptionsDemoApp\AdvancedExceptionsDemo\bin\Debug\net8.0\AdvancedExceptionsDemo.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedExceptionsDemoApp\AdvancedExceptionsDemo\bin\Debug\net8.0\AdvancedExceptionsDemo.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedExceptionsDemoApp\AdvancedExceptionsDemo\bin\Debug\net8.0\AdvancedExceptionsDemo.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedExceptionsDemoApp\AdvancedExceptionsDemo\obj\Debug\net8.0\AdvancedExceptionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedExceptionsDemoApp\AdvancedExceptionsDemo\obj\Debug\net8.0\AdvancedExceptionsDemo.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedExceptionsDemoApp\AdvancedExceptionsDemo\obj\Debug\net8.0\AdvancedExceptionsDemo.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedExceptionsDemoApp\AdvancedExceptionsDemo\obj\Debug\net8.0\AdvancedExceptionsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedExceptionsDemoApp\AdvancedExceptionsDemo\obj\Debug\net8.0\AdvancedExceptionsDemo.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedExceptionsDemoApp\AdvancedExceptionsDemo\obj\Debug\net8.0\refint\AdvancedExceptionsDemo.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedExceptionsDemoApp\AdvancedExceptionsDemo\obj\Debug\net8.0\AdvancedExceptionsDemo.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedExceptionsDemoApp\AdvancedExceptionsDemo\obj\Debug\net8.0\AdvancedExceptionsDemo.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedExceptionsDemoApp\AdvancedExceptionsDemo\obj\Debug\net8.0\ref\AdvancedExceptionsDemo.dll

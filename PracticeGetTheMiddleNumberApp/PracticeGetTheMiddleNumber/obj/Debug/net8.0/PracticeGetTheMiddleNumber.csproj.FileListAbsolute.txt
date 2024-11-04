@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeGetTheMiddleNumberApp\PracticeGetTheMiddleNumber\bin\Debug\net8.0\PracticeGetTheMiddleNumber.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeGetTheMiddleNumberApp\PracticeGetTheMiddleNumber\bin\Debug\net8.0\PracticeGetTheMiddleNumber.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeGetTheMiddleNumberApp\PracticeGetTheMiddleNumber\bin\Debug\net8.0\PracticeGetTheMiddleNumber.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeGetTheMiddleNumberApp\PracticeGetTheMiddleNumber\bin\Debug\net8.0\PracticeGetTheMiddleNumber.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeGetTheMiddleNumberApp\PracticeGetTheMiddleNumber\bin\Debug\net8.0\PracticeGetTheMiddleNumber.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeGetTheMiddleNumberApp\PracticeGetTheMiddleNumber\obj\Debug\net8.0\PracticeGetTheMiddleNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeGetTheMiddleNumberApp\PracticeGetTheMiddleNumber\obj\Debug\net8.0\PracticeGetTheMiddleNumber.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeGetTheMiddleNumberApp\PracticeGetTheMiddleNumber\obj\Debug\net8.0\PracticeGetTheMiddleNumber.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeGetTheMiddleNumberApp\PracticeGetTheMiddleNumber\obj\Debug\net8.0\PracticeGetTheMiddleNumber.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeGetTheMiddleNumberApp\PracticeGetTheMiddleNumber\obj\Debug\net8.0\PracticeGetTheMiddleNumber.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeGetTheMiddleNumberApp\PracticeGetTheMiddleNumber\obj\Debug\net8.0\refint\PracticeGetTheMiddleNumber.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeGetTheMiddleNumberApp\PracticeGetTheMiddleNumber\obj\Debug\net8.0\PracticeGetTheMiddleNumber.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeGetTheMiddleNumberApp\PracticeGetTheMiddleNumber\obj\Debug\net8.0\PracticeGetTheMiddleNumber.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeGetTheMiddleNumberApp\PracticeGetTheMiddleNumber\obj\Debug\net8.0\ref\PracticeGetTheMiddleNumber.dll

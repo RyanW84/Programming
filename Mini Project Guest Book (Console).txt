@@ -1,0 +1,10 @@
+Mini Project Guest Book (Console)
+
+Ask the user for their name 
+How many are in their party
+
+multiple bookings
+
+keep track of how many people are at the party
+
+At the end, print out the guest list and the total number of guests

@@ -1,0 +1,11 @@
+Mini Project 1:
+
+Plan and build a console application 
+
+that asks a user for their name and their age. first name? surname?
+
+If their name is Bob or Sue, address them as Professor.
+
+how do we address everyone else? (By name)
+
+If the person is under 21, recommend they wait X years to start this class.

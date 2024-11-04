@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\SwitchDemoApp\SwitchDemo\bin\Debug\net8.0\SwitchDemo.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\SwitchDemoApp\SwitchDemo\bin\Debug\net8.0\SwitchDemo.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\SwitchDemoApp\SwitchDemo\bin\Debug\net8.0\SwitchDemo.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\SwitchDemoApp\SwitchDemo\bin\Debug\net8.0\SwitchDemo.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\SwitchDemoApp\SwitchDemo\bin\Debug\net8.0\SwitchDemo.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\SwitchDemoApp\SwitchDemo\obj\Debug\net8.0\SwitchDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\SwitchDemoApp\SwitchDemo\obj\Debug\net8.0\SwitchDemo.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\SwitchDemoApp\SwitchDemo\obj\Debug\net8.0\SwitchDemo.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\SwitchDemoApp\SwitchDemo\obj\Debug\net8.0\SwitchDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\SwitchDemoApp\SwitchDemo\obj\Debug\net8.0\SwitchDemo.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\SwitchDemoApp\SwitchDemo\obj\Debug\net8.0\refint\SwitchDemo.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\SwitchDemoApp\SwitchDemo\obj\Debug\net8.0\SwitchDemo.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\SwitchDemoApp\SwitchDemo\obj\Debug\net8.0\SwitchDemo.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\SwitchDemoApp\SwitchDemo\obj\Debug\net8.0\ref\SwitchDemo.dll

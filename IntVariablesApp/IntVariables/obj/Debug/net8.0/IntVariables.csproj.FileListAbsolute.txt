@@ -1,0 +1,14 @@
+C:\Users\Ryanw\source\repos\IntVariablesApp\IntVariables\obj\Debug\net8.0\IntVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\source\repos\IntVariablesApp\IntVariables\obj\Debug\net8.0\IntVariables.AssemblyInfoInputs.cache
+C:\Users\Ryanw\source\repos\IntVariablesApp\IntVariables\obj\Debug\net8.0\IntVariables.AssemblyInfo.cs
+C:\Users\Ryanw\source\repos\IntVariablesApp\IntVariables\obj\Debug\net8.0\IntVariables.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\source\repos\IntVariablesApp\IntVariables\bin\Debug\net8.0\IntVariables.exe
+C:\Users\Ryanw\source\repos\IntVariablesApp\IntVariables\bin\Debug\net8.0\IntVariables.deps.json
+C:\Users\Ryanw\source\repos\IntVariablesApp\IntVariables\bin\Debug\net8.0\IntVariables.runtimeconfig.json
+C:\Users\Ryanw\source\repos\IntVariablesApp\IntVariables\bin\Debug\net8.0\IntVariables.dll
+C:\Users\Ryanw\source\repos\IntVariablesApp\IntVariables\bin\Debug\net8.0\IntVariables.pdb
+C:\Users\Ryanw\source\repos\IntVariablesApp\IntVariables\obj\Debug\net8.0\IntVariables.dll
+C:\Users\Ryanw\source\repos\IntVariablesApp\IntVariables\obj\Debug\net8.0\refint\IntVariables.dll
+C:\Users\Ryanw\source\repos\IntVariablesApp\IntVariables\obj\Debug\net8.0\IntVariables.pdb
+C:\Users\Ryanw\source\repos\IntVariablesApp\IntVariables\obj\Debug\net8.0\IntVariables.genruntimeconfig.cache
+C:\Users\Ryanw\source\repos\IntVariablesApp\IntVariables\obj\Debug\net8.0\ref\IntVariables.dll

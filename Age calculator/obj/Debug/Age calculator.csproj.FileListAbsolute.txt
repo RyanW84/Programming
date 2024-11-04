@@ -1,0 +1,3 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Age calculator\obj\Debug\Age calculator.csproj.AssemblyReference.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Age calculator\obj\Debug\Age calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Age calculator\obj\Debug\Age calculator.csproj.CoreCompileInputs.cache

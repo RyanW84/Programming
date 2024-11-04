@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ryanw\\OneDrive\\Desktop\\Programming\\PracticeConsoleWriteline1App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6F33DA-2590-491F-B416-8F79E15AB833}|PracticeConsoleWriteline1\\PracticeConsoleWriteline1.csproj|c:\\users\\ryanw\\onedrive\\desktop\\programming\\practiceconsolewriteline1app\\practiceconsolewriteline1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE6F33DA-2590-491F-B416-8F79E15AB833}|PracticeConsoleWriteline1\\PracticeConsoleWriteline1.csproj|solutionrelative:practiceconsolewriteline1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ryanw\\OneDrive\\Desktop\\Programming\\PracticeConsoleWriteline1App\\PracticeConsoleWriteline1\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeConsoleWriteline1\\Program.cs",
+              "ToolTip": "C:\\Users\\Ryanw\\OneDrive\\Desktop\\Programming\\PracticeConsoleWriteline1App\\PracticeConsoleWriteline1\\Program.cs*",
+              "RelativeToolTip": "PracticeConsoleWriteline1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:54:19.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

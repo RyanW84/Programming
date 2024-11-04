@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MethodsPracticeAreaCalculatorApp\MethodsPracticeAreaCalculator\bin\Debug\net8.0\MethodsPracticeAreaCalculator.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MethodsPracticeAreaCalculatorApp\MethodsPracticeAreaCalculator\bin\Debug\net8.0\MethodsPracticeAreaCalculator.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MethodsPracticeAreaCalculatorApp\MethodsPracticeAreaCalculator\bin\Debug\net8.0\MethodsPracticeAreaCalculator.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MethodsPracticeAreaCalculatorApp\MethodsPracticeAreaCalculator\bin\Debug\net8.0\MethodsPracticeAreaCalculator.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MethodsPracticeAreaCalculatorApp\MethodsPracticeAreaCalculator\bin\Debug\net8.0\MethodsPracticeAreaCalculator.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MethodsPracticeAreaCalculatorApp\MethodsPracticeAreaCalculator\obj\Debug\net8.0\MethodsPracticeAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MethodsPracticeAreaCalculatorApp\MethodsPracticeAreaCalculator\obj\Debug\net8.0\MethodsPracticeAreaCalculator.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MethodsPracticeAreaCalculatorApp\MethodsPracticeAreaCalculator\obj\Debug\net8.0\MethodsPracticeAreaCalculator.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MethodsPracticeAreaCalculatorApp\MethodsPracticeAreaCalculator\obj\Debug\net8.0\MethodsPracticeAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MethodsPracticeAreaCalculatorApp\MethodsPracticeAreaCalculator\obj\Debug\net8.0\MethodsPracticeAreaCalculator.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MethodsPracticeAreaCalculatorApp\MethodsPracticeAreaCalculator\obj\Debug\net8.0\refint\MethodsPracticeAreaCalculator.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MethodsPracticeAreaCalculatorApp\MethodsPracticeAreaCalculator\obj\Debug\net8.0\MethodsPracticeAreaCalculator.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MethodsPracticeAreaCalculatorApp\MethodsPracticeAreaCalculator\obj\Debug\net8.0\MethodsPracticeAreaCalculator.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MethodsPracticeAreaCalculatorApp\MethodsPracticeAreaCalculator\obj\Debug\net8.0\ref\MethodsPracticeAreaCalculator.dll

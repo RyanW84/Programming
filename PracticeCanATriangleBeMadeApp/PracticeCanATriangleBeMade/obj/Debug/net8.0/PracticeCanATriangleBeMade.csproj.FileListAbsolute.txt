@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeCanATriangleBeMadeApp\PracticeCanATriangleBeMade\bin\Debug\net8.0\PracticeCanATriangleBeMade.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeCanATriangleBeMadeApp\PracticeCanATriangleBeMade\bin\Debug\net8.0\PracticeCanATriangleBeMade.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeCanATriangleBeMadeApp\PracticeCanATriangleBeMade\bin\Debug\net8.0\PracticeCanATriangleBeMade.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeCanATriangleBeMadeApp\PracticeCanATriangleBeMade\bin\Debug\net8.0\PracticeCanATriangleBeMade.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeCanATriangleBeMadeApp\PracticeCanATriangleBeMade\bin\Debug\net8.0\PracticeCanATriangleBeMade.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeCanATriangleBeMadeApp\PracticeCanATriangleBeMade\obj\Debug\net8.0\PracticeCanATriangleBeMade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeCanATriangleBeMadeApp\PracticeCanATriangleBeMade\obj\Debug\net8.0\PracticeCanATriangleBeMade.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeCanATriangleBeMadeApp\PracticeCanATriangleBeMade\obj\Debug\net8.0\PracticeCanATriangleBeMade.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeCanATriangleBeMadeApp\PracticeCanATriangleBeMade\obj\Debug\net8.0\PracticeCanATriangleBeMade.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeCanATriangleBeMadeApp\PracticeCanATriangleBeMade\obj\Debug\net8.0\PracticeCanATriangleBeMade.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeCanATriangleBeMadeApp\PracticeCanATriangleBeMade\obj\Debug\net8.0\refint\PracticeCanATriangleBeMade.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeCanATriangleBeMadeApp\PracticeCanATriangleBeMade\obj\Debug\net8.0\PracticeCanATriangleBeMade.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeCanATriangleBeMadeApp\PracticeCanATriangleBeMade\obj\Debug\net8.0\PracticeCanATriangleBeMade.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\PracticeCanATriangleBeMadeApp\PracticeCanATriangleBeMade\obj\Debug\net8.0\ref\PracticeCanATriangleBeMade.dll

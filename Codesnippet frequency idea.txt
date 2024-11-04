@@ -1,0 +1,34 @@
+ do
+ {
+     k++;
+     if (a[i] == a[j])
+     {
+         Console.WriteLine($"** I have found a match a[i] is {i} and a[j] is {j} **");
+         //Console.WriteLine($"i is {i} \nj is {j} \ncount is {count} \na[i] is {a[i]} \na[j] is {a[j]}");
+         count++;
+        // while (a[i] == i)
+        // {
+             j--;
+        // }
+   
+         Console.WriteLine($"Count is now {count} and j is {j}");
+     }
+     else if (a[i] != a[j])
+     {
+         Console.WriteLine($"There was no match in first pointer {i} and second pointer {j} Decreasing second pointer");
+         j--; // Keep getting stuck where J enters minus figure and I does not go up
+         if (j > 0)
+        // {
+        //     continue;
+        // }
+
+     }
+     else
+     {
+         Console.WriteLine($" I have exited the IF loop for {a[i]} and will now move on to {a[i + 1]}");
+         i++;
+         j = a.Length - 1;
+     }
+ }
+ while (i <= a.Length-1);
+ Console.WriteLine($"Exited Do While Loop i is {i} and j is {j} and The Do While loop has iterated: {k} times");

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4210d1c4-fdad-42a0-aa14-5b4b931a0bcf": {
+      "ProjectGuid": "4210d1c4-fdad-42a0-aa14-5b4b931a0bcf",
+      "DisplayName": "Microsoft Training Hello World",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

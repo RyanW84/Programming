@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkForEachLoopApp\HomeworkForEachLoop\bin\Debug\net8.0\HomeworkForEachLoop.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkForEachLoopApp\HomeworkForEachLoop\bin\Debug\net8.0\HomeworkForEachLoop.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkForEachLoopApp\HomeworkForEachLoop\bin\Debug\net8.0\HomeworkForEachLoop.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkForEachLoopApp\HomeworkForEachLoop\bin\Debug\net8.0\HomeworkForEachLoop.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkForEachLoopApp\HomeworkForEachLoop\bin\Debug\net8.0\HomeworkForEachLoop.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkForEachLoopApp\HomeworkForEachLoop\obj\Debug\net8.0\HomeworkForEachLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkForEachLoopApp\HomeworkForEachLoop\obj\Debug\net8.0\HomeworkForEachLoop.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkForEachLoopApp\HomeworkForEachLoop\obj\Debug\net8.0\HomeworkForEachLoop.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkForEachLoopApp\HomeworkForEachLoop\obj\Debug\net8.0\HomeworkForEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkForEachLoopApp\HomeworkForEachLoop\obj\Debug\net8.0\HomeworkForEachLoop.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkForEachLoopApp\HomeworkForEachLoop\obj\Debug\net8.0\refint\HomeworkForEachLoop.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkForEachLoopApp\HomeworkForEachLoop\obj\Debug\net8.0\HomeworkForEachLoop.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkForEachLoopApp\HomeworkForEachLoop\obj\Debug\net8.0\HomeworkForEachLoop.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkForEachLoopApp\HomeworkForEachLoop\obj\Debug\net8.0\ref\HomeworkForEachLoop.dll

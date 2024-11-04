@@ -1,0 +1,6 @@
+Homework assignment 1
+
+create a console application that has variables to hold a persons name, age,
+if they are alive, and their phone number
+
+you dont need to capture the input from the user

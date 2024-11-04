@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopApp\DoLoop\bin\Debug\net8.0\DoLoop.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopApp\DoLoop\bin\Debug\net8.0\DoLoop.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopApp\DoLoop\bin\Debug\net8.0\DoLoop.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopApp\DoLoop\bin\Debug\net8.0\DoLoop.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopApp\DoLoop\bin\Debug\net8.0\DoLoop.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopApp\DoLoop\obj\Debug\net8.0\DoLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopApp\DoLoop\obj\Debug\net8.0\DoLoop.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopApp\DoLoop\obj\Debug\net8.0\DoLoop.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopApp\DoLoop\obj\Debug\net8.0\DoLoop.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopApp\DoLoop\obj\Debug\net8.0\DoLoop.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopApp\DoLoop\obj\Debug\net8.0\refint\DoLoop.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopApp\DoLoop\obj\Debug\net8.0\DoLoop.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopApp\DoLoop\obj\Debug\net8.0\DoLoop.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopApp\DoLoop\obj\Debug\net8.0\ref\DoLoop.dll

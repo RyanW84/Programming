@@ -1,0 +1,14 @@
+C:\Users\Ryanw\source\repos\StringVariablesApp\StringVariablesApp\bin\Debug\net8.0\StringVariablesApp.exe
+C:\Users\Ryanw\source\repos\StringVariablesApp\StringVariablesApp\bin\Debug\net8.0\StringVariablesApp.deps.json
+C:\Users\Ryanw\source\repos\StringVariablesApp\StringVariablesApp\bin\Debug\net8.0\StringVariablesApp.runtimeconfig.json
+C:\Users\Ryanw\source\repos\StringVariablesApp\StringVariablesApp\bin\Debug\net8.0\StringVariablesApp.dll
+C:\Users\Ryanw\source\repos\StringVariablesApp\StringVariablesApp\bin\Debug\net8.0\StringVariablesApp.pdb
+C:\Users\Ryanw\source\repos\StringVariablesApp\StringVariablesApp\obj\Debug\net8.0\StringVariablesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\source\repos\StringVariablesApp\StringVariablesApp\obj\Debug\net8.0\StringVariablesApp.AssemblyInfoInputs.cache
+C:\Users\Ryanw\source\repos\StringVariablesApp\StringVariablesApp\obj\Debug\net8.0\StringVariablesApp.AssemblyInfo.cs
+C:\Users\Ryanw\source\repos\StringVariablesApp\StringVariablesApp\obj\Debug\net8.0\StringVariablesApp.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\source\repos\StringVariablesApp\StringVariablesApp\obj\Debug\net8.0\StringVariablesApp.dll
+C:\Users\Ryanw\source\repos\StringVariablesApp\StringVariablesApp\obj\Debug\net8.0\refint\StringVariablesApp.dll
+C:\Users\Ryanw\source\repos\StringVariablesApp\StringVariablesApp\obj\Debug\net8.0\StringVariablesApp.pdb
+C:\Users\Ryanw\source\repos\StringVariablesApp\StringVariablesApp\obj\Debug\net8.0\StringVariablesApp.genruntimeconfig.cache
+C:\Users\Ryanw\source\repos\StringVariablesApp\StringVariablesApp\obj\Debug\net8.0\ref\StringVariablesApp.dll

@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkHandledExceptionApp\HomeworkHandledException\bin\Debug\net8.0\HomeworkHandledException.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkHandledExceptionApp\HomeworkHandledException\bin\Debug\net8.0\HomeworkHandledException.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkHandledExceptionApp\HomeworkHandledException\bin\Debug\net8.0\HomeworkHandledException.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkHandledExceptionApp\HomeworkHandledException\bin\Debug\net8.0\HomeworkHandledException.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkHandledExceptionApp\HomeworkHandledException\bin\Debug\net8.0\HomeworkHandledException.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkHandledExceptionApp\HomeworkHandledException\obj\Debug\net8.0\HomeworkHandledException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkHandledExceptionApp\HomeworkHandledException\obj\Debug\net8.0\HomeworkHandledException.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkHandledExceptionApp\HomeworkHandledException\obj\Debug\net8.0\HomeworkHandledException.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkHandledExceptionApp\HomeworkHandledException\obj\Debug\net8.0\HomeworkHandledException.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkHandledExceptionApp\HomeworkHandledException\obj\Debug\net8.0\HomeworkHandledException.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkHandledExceptionApp\HomeworkHandledException\obj\Debug\net8.0\refint\HomeworkHandledException.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkHandledExceptionApp\HomeworkHandledException\obj\Debug\net8.0\HomeworkHandledException.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkHandledExceptionApp\HomeworkHandledException\obj\Debug\net8.0\HomeworkHandledException.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkHandledExceptionApp\HomeworkHandledException\obj\Debug\net8.0\ref\HomeworkHandledException.dll

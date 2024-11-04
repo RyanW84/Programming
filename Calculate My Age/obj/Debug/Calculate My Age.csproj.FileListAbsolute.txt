@@ -1,0 +1,8 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Calculate My Age\bin\Debug\Calculate My Age.exe.config
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Calculate My Age\bin\Debug\Calculate My Age.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Calculate My Age\bin\Debug\Calculate My Age.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Calculate My Age\obj\Debug\Calculate My Age.csproj.AssemblyReference.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Calculate My Age\obj\Debug\Calculate My Age.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Calculate My Age\obj\Debug\Calculate My Age.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Calculate My Age\obj\Debug\Calculate My Age.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Calculate My Age\obj\Debug\Calculate My Age.pdb

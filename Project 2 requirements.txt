@@ -1,0 +1,5 @@
+This is the next application, we will welcome our user to the application. Then we will ask them for their first name and greet them by name.
+
+1) Welcome user to app
+2) Ask for first name
+3) Greet user by name

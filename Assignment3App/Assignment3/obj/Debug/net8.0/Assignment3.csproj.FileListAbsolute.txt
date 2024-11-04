@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Assignment3App\Assignment3\bin\Debug\net8.0\Assignment3.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Assignment3App\Assignment3\bin\Debug\net8.0\Assignment3.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Assignment3App\Assignment3\bin\Debug\net8.0\Assignment3.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Assignment3App\Assignment3\bin\Debug\net8.0\Assignment3.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Assignment3App\Assignment3\bin\Debug\net8.0\Assignment3.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Assignment3App\Assignment3\obj\Debug\net8.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Assignment3App\Assignment3\obj\Debug\net8.0\Assignment3.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Assignment3App\Assignment3\obj\Debug\net8.0\Assignment3.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Assignment3App\Assignment3\obj\Debug\net8.0\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Assignment3App\Assignment3\obj\Debug\net8.0\Assignment3.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Assignment3App\Assignment3\obj\Debug\net8.0\refint\Assignment3.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Assignment3App\Assignment3\obj\Debug\net8.0\Assignment3.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Assignment3App\Assignment3\obj\Debug\net8.0\Assignment3.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Assignment3App\Assignment3\obj\Debug\net8.0\ref\Assignment3.dll

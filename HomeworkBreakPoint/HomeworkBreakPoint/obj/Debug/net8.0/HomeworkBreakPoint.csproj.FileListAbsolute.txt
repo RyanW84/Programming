@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkBreakPoint\HomeworkBreakPoint\bin\Debug\net8.0\HomeworkBreakPoint.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkBreakPoint\HomeworkBreakPoint\bin\Debug\net8.0\HomeworkBreakPoint.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkBreakPoint\HomeworkBreakPoint\bin\Debug\net8.0\HomeworkBreakPoint.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkBreakPoint\HomeworkBreakPoint\bin\Debug\net8.0\HomeworkBreakPoint.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkBreakPoint\HomeworkBreakPoint\bin\Debug\net8.0\HomeworkBreakPoint.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkBreakPoint\HomeworkBreakPoint\obj\Debug\net8.0\HomeworkBreakPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkBreakPoint\HomeworkBreakPoint\obj\Debug\net8.0\HomeworkBreakPoint.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkBreakPoint\HomeworkBreakPoint\obj\Debug\net8.0\HomeworkBreakPoint.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkBreakPoint\HomeworkBreakPoint\obj\Debug\net8.0\HomeworkBreakPoint.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkBreakPoint\HomeworkBreakPoint\obj\Debug\net8.0\HomeworkBreakPoint.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkBreakPoint\HomeworkBreakPoint\obj\Debug\net8.0\refint\HomeworkBreakPoint.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkBreakPoint\HomeworkBreakPoint\obj\Debug\net8.0\HomeworkBreakPoint.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkBreakPoint\HomeworkBreakPoint\obj\Debug\net8.0\HomeworkBreakPoint.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\HomeworkBreakPoint\HomeworkBreakPoint\obj\Debug\net8.0\ref\HomeworkBreakPoint.dll

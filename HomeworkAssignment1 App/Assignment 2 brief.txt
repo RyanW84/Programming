@@ -1,0 +1,9 @@
+Homework Assignment 2
+
+Capture a user's age from the console and then identify how old they will  be in 25 years and how old they were 25 years ago.
+
+print that information to the console in Natural Language. Meaning don't print 45 and -5 - be descriptive
+
+"You would be 45 in 25 years, and 25 years ago you were -5" 
+
+make sure it reads like a sentence. Sting interpolation  / adding strings

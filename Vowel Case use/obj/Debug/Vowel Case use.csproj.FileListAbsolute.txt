@@ -1,0 +1,8 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Vowel Case use\bin\Debug\Vowel Case use.exe.config
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Vowel Case use\bin\Debug\Vowel Case use.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Vowel Case use\bin\Debug\Vowel Case use.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Vowel Case use\obj\Debug\Vowel Case use.csproj.AssemblyReference.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Vowel Case use\obj\Debug\Vowel Case use.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Vowel Case use\obj\Debug\Vowel Case use.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Vowel Case use\obj\Debug\Vowel Case use.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Vowel Case use\obj\Debug\Vowel Case use.pdb

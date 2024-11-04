@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "10871631-bb2e-4bf9-9a7d-76216337fc32": {
+      "ProjectGuid": "10871631-bb2e-4bf9-9a7d-76216337fc32",
+      "DisplayName": "Age calculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

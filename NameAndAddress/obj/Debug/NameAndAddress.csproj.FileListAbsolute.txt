@@ -1,0 +1,8 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\NameAndAddress\bin\Debug\NameAndAddress.exe.config
+C:\Users\Ryanw\OneDrive\Desktop\Programming\NameAndAddress\bin\Debug\NameAndAddress.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\NameAndAddress\bin\Debug\NameAndAddress.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\NameAndAddress\obj\Debug\NameAndAddress.csproj.AssemblyReference.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\NameAndAddress\obj\Debug\NameAndAddress.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\NameAndAddress\obj\Debug\NameAndAddress.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\NameAndAddress\obj\Debug\NameAndAddress.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\NameAndAddress\obj\Debug\NameAndAddress.pdb

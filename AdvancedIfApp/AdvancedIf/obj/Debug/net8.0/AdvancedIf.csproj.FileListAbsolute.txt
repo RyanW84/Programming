@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedIfApp\AdvancedIf\bin\Debug\net8.0\AdvancedIf.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedIfApp\AdvancedIf\bin\Debug\net8.0\AdvancedIf.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedIfApp\AdvancedIf\bin\Debug\net8.0\AdvancedIf.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedIfApp\AdvancedIf\bin\Debug\net8.0\AdvancedIf.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedIfApp\AdvancedIf\bin\Debug\net8.0\AdvancedIf.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedIfApp\AdvancedIf\obj\Debug\net8.0\AdvancedIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedIfApp\AdvancedIf\obj\Debug\net8.0\AdvancedIf.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedIfApp\AdvancedIf\obj\Debug\net8.0\AdvancedIf.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedIfApp\AdvancedIf\obj\Debug\net8.0\AdvancedIf.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedIfApp\AdvancedIf\obj\Debug\net8.0\AdvancedIf.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedIfApp\AdvancedIf\obj\Debug\net8.0\refint\AdvancedIf.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedIfApp\AdvancedIf\obj\Debug\net8.0\AdvancedIf.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedIfApp\AdvancedIf\obj\Debug\net8.0\AdvancedIf.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\AdvancedIfApp\AdvancedIf\obj\Debug\net8.0\ref\AdvancedIf.dll

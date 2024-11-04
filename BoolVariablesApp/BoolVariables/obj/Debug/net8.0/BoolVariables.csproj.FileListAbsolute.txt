@@ -1,0 +1,14 @@
+C:\Users\Ryanw\source\repos\BoolVariablesApp\BoolVariables\bin\Debug\net8.0\BoolVariables.exe
+C:\Users\Ryanw\source\repos\BoolVariablesApp\BoolVariables\bin\Debug\net8.0\BoolVariables.deps.json
+C:\Users\Ryanw\source\repos\BoolVariablesApp\BoolVariables\bin\Debug\net8.0\BoolVariables.runtimeconfig.json
+C:\Users\Ryanw\source\repos\BoolVariablesApp\BoolVariables\bin\Debug\net8.0\BoolVariables.dll
+C:\Users\Ryanw\source\repos\BoolVariablesApp\BoolVariables\bin\Debug\net8.0\BoolVariables.pdb
+C:\Users\Ryanw\source\repos\BoolVariablesApp\BoolVariables\obj\Debug\net8.0\BoolVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\source\repos\BoolVariablesApp\BoolVariables\obj\Debug\net8.0\BoolVariables.AssemblyInfoInputs.cache
+C:\Users\Ryanw\source\repos\BoolVariablesApp\BoolVariables\obj\Debug\net8.0\BoolVariables.AssemblyInfo.cs
+C:\Users\Ryanw\source\repos\BoolVariablesApp\BoolVariables\obj\Debug\net8.0\BoolVariables.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\source\repos\BoolVariablesApp\BoolVariables\obj\Debug\net8.0\BoolVariables.dll
+C:\Users\Ryanw\source\repos\BoolVariablesApp\BoolVariables\obj\Debug\net8.0\refint\BoolVariables.dll
+C:\Users\Ryanw\source\repos\BoolVariablesApp\BoolVariables\obj\Debug\net8.0\BoolVariables.pdb
+C:\Users\Ryanw\source\repos\BoolVariablesApp\BoolVariables\obj\Debug\net8.0\BoolVariables.genruntimeconfig.cache
+C:\Users\Ryanw\source\repos\BoolVariablesApp\BoolVariables\obj\Debug\net8.0\ref\BoolVariables.dll

@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectDebuggingApp\MiniProjectDebugging\bin\Debug\net8.0\MiniProjectDebugging.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectDebuggingApp\MiniProjectDebugging\bin\Debug\net8.0\MiniProjectDebugging.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectDebuggingApp\MiniProjectDebugging\bin\Debug\net8.0\MiniProjectDebugging.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectDebuggingApp\MiniProjectDebugging\bin\Debug\net8.0\MiniProjectDebugging.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectDebuggingApp\MiniProjectDebugging\bin\Debug\net8.0\MiniProjectDebugging.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectDebuggingApp\MiniProjectDebugging\obj\Debug\net8.0\MiniProjectDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectDebuggingApp\MiniProjectDebugging\obj\Debug\net8.0\MiniProjectDebugging.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectDebuggingApp\MiniProjectDebugging\obj\Debug\net8.0\MiniProjectDebugging.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectDebuggingApp\MiniProjectDebugging\obj\Debug\net8.0\MiniProjectDebugging.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectDebuggingApp\MiniProjectDebugging\obj\Debug\net8.0\MiniProjectDebugging.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectDebuggingApp\MiniProjectDebugging\obj\Debug\net8.0\refint\MiniProjectDebugging.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectDebuggingApp\MiniProjectDebugging\obj\Debug\net8.0\MiniProjectDebugging.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectDebuggingApp\MiniProjectDebugging\obj\Debug\net8.0\MiniProjectDebugging.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\MiniProjectDebuggingApp\MiniProjectDebugging\obj\Debug\net8.0\ref\MiniProjectDebugging.dll

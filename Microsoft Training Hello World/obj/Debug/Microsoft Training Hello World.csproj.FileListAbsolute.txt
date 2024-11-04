@@ -1,0 +1,8 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Microsoft Training Hello World\bin\Debug\Microsoft Training Hello World.exe.config
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Microsoft Training Hello World\bin\Debug\Microsoft Training Hello World.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Microsoft Training Hello World\bin\Debug\Microsoft Training Hello World.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Microsoft Training Hello World\obj\Debug\Microsoft Training Hello World.csproj.AssemblyReference.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Microsoft Training Hello World\obj\Debug\Microsoft Training Hello World.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Microsoft Training Hello World\obj\Debug\Microsoft Training Hello World.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Microsoft Training Hello World\obj\Debug\Microsoft Training Hello World.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\Microsoft Training Hello World\obj\Debug\Microsoft Training Hello World.pdb

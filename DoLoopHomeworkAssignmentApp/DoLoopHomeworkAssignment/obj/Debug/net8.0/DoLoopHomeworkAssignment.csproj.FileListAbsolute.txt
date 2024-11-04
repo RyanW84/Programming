@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopHomeworkAssignmentApp\DoLoopHomeworkAssignment\bin\Debug\net8.0\DoLoopHomeworkAssignment.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopHomeworkAssignmentApp\DoLoopHomeworkAssignment\bin\Debug\net8.0\DoLoopHomeworkAssignment.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopHomeworkAssignmentApp\DoLoopHomeworkAssignment\bin\Debug\net8.0\DoLoopHomeworkAssignment.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopHomeworkAssignmentApp\DoLoopHomeworkAssignment\bin\Debug\net8.0\DoLoopHomeworkAssignment.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopHomeworkAssignmentApp\DoLoopHomeworkAssignment\bin\Debug\net8.0\DoLoopHomeworkAssignment.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopHomeworkAssignmentApp\DoLoopHomeworkAssignment\obj\Debug\net8.0\DoLoopHomeworkAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopHomeworkAssignmentApp\DoLoopHomeworkAssignment\obj\Debug\net8.0\DoLoopHomeworkAssignment.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopHomeworkAssignmentApp\DoLoopHomeworkAssignment\obj\Debug\net8.0\DoLoopHomeworkAssignment.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopHomeworkAssignmentApp\DoLoopHomeworkAssignment\obj\Debug\net8.0\DoLoopHomeworkAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopHomeworkAssignmentApp\DoLoopHomeworkAssignment\obj\Debug\net8.0\DoLoopHomeworkAssignment.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopHomeworkAssignmentApp\DoLoopHomeworkAssignment\obj\Debug\net8.0\refint\DoLoopHomeworkAssignment.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopHomeworkAssignmentApp\DoLoopHomeworkAssignment\obj\Debug\net8.0\DoLoopHomeworkAssignment.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopHomeworkAssignmentApp\DoLoopHomeworkAssignment\obj\Debug\net8.0\DoLoopHomeworkAssignment.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\DoLoopHomeworkAssignmentApp\DoLoopHomeworkAssignment\obj\Debug\net8.0\ref\DoLoopHomeworkAssignment.dll

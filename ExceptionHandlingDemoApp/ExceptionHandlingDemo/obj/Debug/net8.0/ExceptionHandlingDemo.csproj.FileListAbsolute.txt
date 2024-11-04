@@ -1,0 +1,14 @@
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ExceptionHandlingDemoApp\ExceptionHandlingDemo\bin\Debug\net8.0\ExceptionHandlingDemo.exe
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ExceptionHandlingDemoApp\ExceptionHandlingDemo\bin\Debug\net8.0\ExceptionHandlingDemo.deps.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ExceptionHandlingDemoApp\ExceptionHandlingDemo\bin\Debug\net8.0\ExceptionHandlingDemo.runtimeconfig.json
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ExceptionHandlingDemoApp\ExceptionHandlingDemo\bin\Debug\net8.0\ExceptionHandlingDemo.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ExceptionHandlingDemoApp\ExceptionHandlingDemo\bin\Debug\net8.0\ExceptionHandlingDemo.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ExceptionHandlingDemoApp\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ExceptionHandlingDemoApp\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.AssemblyInfoInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ExceptionHandlingDemoApp\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.AssemblyInfo.cs
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ExceptionHandlingDemoApp\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ExceptionHandlingDemoApp\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ExceptionHandlingDemoApp\ExceptionHandlingDemo\obj\Debug\net8.0\refint\ExceptionHandlingDemo.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ExceptionHandlingDemoApp\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.pdb
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ExceptionHandlingDemoApp\ExceptionHandlingDemo\obj\Debug\net8.0\ExceptionHandlingDemo.genruntimeconfig.cache
+C:\Users\Ryanw\OneDrive\Desktop\Programming\ExceptionHandlingDemoApp\ExceptionHandlingDemo\obj\Debug\net8.0\ref\ExceptionHandlingDemo.dll
