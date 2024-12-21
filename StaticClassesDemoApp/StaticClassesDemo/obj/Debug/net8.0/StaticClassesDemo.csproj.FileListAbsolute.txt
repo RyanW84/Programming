@@ -12,3 +12,4 @@ C:\Users\Ryanw\OneDrive\Desktop\Programming\StaticClassesDemoApp\StaticClassesDe
 C:\Users\Ryanw\OneDrive\Desktop\Programming\StaticClassesDemoApp\StaticClassesDemo\obj\Debug\net8.0\StaticClassesDemo.pdb
 C:\Users\Ryanw\OneDrive\Desktop\Programming\StaticClassesDemoApp\StaticClassesDemo\obj\Debug\net8.0\StaticClassesDemo.genruntimeconfig.cache
 C:\Users\Ryanw\OneDrive\Desktop\Programming\StaticClassesDemoApp\StaticClassesDemo\obj\Debug\net8.0\ref\StaticClassesDemo.dll
+C:\Users\Ryanw\OneDrive\Desktop\Programming\StaticClassesDemoApp\StaticClassesDemo\obj\Debug\net8.0\StaticClassesDemo.sourcelink.json

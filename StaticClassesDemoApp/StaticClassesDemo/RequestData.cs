@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StaticClassesDemo
 {
-    public class RequestData
+    public static class RequestData
     {
         public static string GetAString(string message)
         {

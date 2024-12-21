@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JJCopilot V1", "JJCopilot V1\JJCopilot V1.csproj", "{5EF5B775-020A-4975-85BC-E552E2C3E90C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EF5B775-020A-4975-85BC-E552E2C3E90C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF5B775-020A-4975-85BC-E552E2C3E90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF5B775-020A-4975-85BC-E552E2C3E90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF5B775-020A-4975-85BC-E552E2C3E90C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2DF2936-C4E7-48D8-A9B0-088FA988BE8C}
+	EndGlobalSection
+EndGlobal

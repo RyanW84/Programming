@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StaticClassesDemo
 {
-    public class UserMessages
+    public static class UserMessages
     {
         public static void ApplicationStartMessage(string firstName)
         {

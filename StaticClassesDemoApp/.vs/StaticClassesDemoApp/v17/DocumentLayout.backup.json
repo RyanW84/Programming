@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{3FC00DB3-3452-43CD-992B-6063AC4E8B1E}|StaticClassesDemo\\StaticClassesDemo.csproj|solutionrelative:staticclassesdemo\\requestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FC00DB3-3452-43CD-992B-6063AC4E8B1E}|StaticClassesDemo\\StaticClassesDemo.csproj|c:\\users\\ryanw\\onedrive\\desktop\\programming\\staticclassesdemoapp\\staticclassesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FC00DB3-3452-43CD-992B-6063AC4E8B1E}|StaticClassesDemo\\StaticClassesDemo.csproj|solutionrelative:staticclassesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3FC00DB3-3452-43CD-992B-6063AC4E8B1E}|StaticClassesDemo\\StaticClassesDemo.csproj|c:\\users\\ryanw\\onedrive\\desktop\\programming\\staticclassesdemoapp\\staticclassesdemo\\usermessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FC00DB3-3452-43CD-992B-6063AC4E8B1E}|StaticClassesDemo\\StaticClassesDemo.csproj|solutionrelative:staticclassesdemo\\usermessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC00DB3-3452-43CD-992B-6063AC4E8B1E}|StaticClassesDemo\\StaticClassesDemo.csproj|c:\\users\\ryanw\\onedrive\\desktop\\programming\\staticclassesdemoapp\\staticclassesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC00DB3-3452-43CD-992B-6063AC4E8B1E}|StaticClassesDemo\\StaticClassesDemo.csproj|solutionrelative:staticclassesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,10 +35,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -61,27 +57,27 @@
               "RelativeDocumentMoniker": "StaticClassesDemo\\RequestData.cs",
               "ToolTip": "C:\\Users\\Ryanw\\OneDrive\\Desktop\\Programming\\StaticClassesDemoApp\\StaticClassesDemo\\RequestData.cs",
               "RelativeToolTip": "StaticClassesDemo\\RequestData.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA0wAgAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T21:04:57.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "UserMessages.cs",
               "DocumentMoniker": "C:\\Users\\Ryanw\\OneDrive\\Desktop\\Programming\\StaticClassesDemoApp\\StaticClassesDemo\\UserMessages.cs",
               "RelativeDocumentMoniker": "StaticClassesDemo\\UserMessages.cs",
               "ToolTip": "C:\\Users\\Ryanw\\OneDrive\\Desktop\\Programming\\StaticClassesDemoApp\\StaticClassesDemo\\UserMessages.cs",
               "RelativeToolTip": "StaticClassesDemo\\UserMessages.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T20:39:43.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ryanw\\OneDrive\\Desktop\\Programming\\StaticClassesDemoApp\\StaticClassesDemo\\Program.cs",
               "RelativeDocumentMoniker": "StaticClassesDemo\\Program.cs",

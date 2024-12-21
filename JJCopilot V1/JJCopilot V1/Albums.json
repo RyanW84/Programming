@@ -1,0 +1,4502 @@
+[
+  {
+    "album": "Whats Going On",
+    "artist": "Marvin Gaye",
+    "label": "Tamla/Motown",
+    "year": 1971,
+    "rank": 1,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Pet Sounds",
+    "artist": "The Beach Boys",
+    "label": "Capitol",
+    "year": 1966,
+    "rank": 2,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Blue",
+    "artist": "Joni Mitchell",
+    "label": "Reprise",
+    "year": 1971,
+    "rank": 3,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Songs in the Key of Life",
+    "artist": "Stevie Wonder",
+    "label": "Tamla/Motown",
+    "year": 1976,
+    "rank": 4,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Abbey Road",
+    "artist": "The Beatles",
+    "label": "Apple",
+    "year": 1969,
+    "rank": 5,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Nevermind",
+    "artist": "Nirvana",
+    "label": "Geffen",
+    "year": 1991,
+    "rank": 6,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Rumours",
+    "artist": "Fleetwood Mac",
+    "label": "Warner Bros.",
+    "year": 1977,
+    "rank": 7,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=lrltGatijXc"
+  },
+  {
+    "album": "Purple Rain",
+    "artist": "Prince and the Revolution",
+    "label": "Warner Bros.",
+    "year": 1984,
+    "rank": 8,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=gjpeL6aGJAI"
+  },
+  {
+    "album": "Blood on the Tracks",
+    "artist": "Bob Dylan",
+    "label": "Columbia",
+    "year": 1975,
+    "rank": 9,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "The Miseducation of Lauryn Hill",
+    "artist": "Lauryn Hill",
+    "label": "Ruffhouse/Columbia",
+    "year": 1998,
+    "rank": 10,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Revolver",
+    "artist": "The Beatles",
+    "label": "Apple",
+    "year": 1966,
+    "rank": 11,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=CeGG6lA-b3o"
+  },
+  {
+    "album": "Thriller",
+    "artist": "Michael Jackson",
+    "label": "Epic",
+    "year": 1982,
+    "rank": 12,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "I Never Loved a Man the Way I Love You",
+    "artist": "Aretha Franklin",
+    "label": "Atlantic",
+    "year": 1967,
+    "rank": 13,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Exile on Main Street",
+    "artist": "The Rolling Stones",
+    "label": "Rolling Stones Records",
+    "year": 1972,
+    "rank": 14,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "It Takes a Nation of Millions to Hold Us Back",
+    "artist": "Public Enemy",
+    "label": "Def Jam",
+    "year": 1988,
+    "rank": 15,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "London Calling",
+    "artist": "The Clash",
+    "label": "CBS",
+    "year": 1979,
+    "rank": 16,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=x1yWR7iZ1wk"
+  },
+  {
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "artist": "Kanye West",
+    "label": "Roc-A-Fella",
+    "year": 2010,
+    "rank": 17,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Highway 61 Revisited",
+    "artist": "Bob Dylan",
+    "label": "Columbia",
+    "year": 1965,
+    "rank": 18,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "To Pimp a Butterfly",
+    "artist": "Kendrick Lamar",
+    "label": "TDE",
+    "year": 2015,
+    "rank": 19,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Kid A",
+    "artist": "Radiohead",
+    "label": "Parlophone",
+    "year": 2000,
+    "rank": 20,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Born to Run",
+    "artist": "Bruce Springsteen",
+    "label": "Columbia",
+    "year": 1975,
+    "rank": 21,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=jSB1m9dRrec"
+  },
+  {
+    "album": "Ready to Die",
+    "artist": "The Notorious B.I.G.",
+    "label": "Bad Boy",
+    "year": 1994,
+    "rank": 22,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=ipbcdHWrTpE"
+  },
+  {
+    "album": "The Velvet Underground and Nico",
+    "artist": "The Velvet Underground",
+    "label": "Verve",
+    "year": 1967,
+    "rank": 23,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=Yjgj2YCRBh4"
+  },
+  {
+    "album": "Sgt. Pepper’s Lonely Hearts Club Band",
+    "artist": "The Beatles",
+    "label": "Capitol",
+    "year": 1967,
+    "rank": 24,
+    "chosenBefore": false,
+    "youTubeLink": ""
+  },
+  {
+    "album": "Tapestry",
+    "artist": "Carole King",
+    "label": "Sony",
+    "year": 1971,
+    "rank": 25,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=SyQ-TgA6bQk"
+  },
+  {
+    "album": "Horses",
+    "artist": "Patti Smith",
+    "label": "Arista",
+    "year": 1975,
+    "rank": 26,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=yoRFG1oef2I"
+  },
+  {
+    "album": "Enter the Wu-Tang(36 Chambers)",
+    "artist": "Wu-Tang Clan",
+    "label": "Loud",
+    "year": 1993,
+    "rank": 27,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Voodoo",
+    "artist": "D’Angelo",
+    "label": "EMI",
+    "year": 2000,
+    "rank": 28,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "White Album",
+    "artist": "The Beatles",
+    "label": "Apple",
+    "year": 1968,
+    "rank": 29,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Are You Experienced",
+    "artist": "Jimi Hendrix",
+    "label": "Track",
+    "year": 1967,
+    "rank": 30,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Kind of Blue",
+    "artist": "Miles Davis",
+    "label": "Columbia",
+    "year": 1959,
+    "rank": 31,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=vDqULFUg6CY"
+  },
+  {
+    "album": "Lemonade",
+    "artist": "Beyoncé",
+    "label": "Parkwood/Columbia",
+    "year": 2016,
+    "rank": 32,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Back to Black",
+    "artist": "Amy Winehouse",
+    "label": "Island",
+    "year": 2006,
+    "rank": 33,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Innervisions",
+    "artist": "Stevie Wonder",
+    "label": "Tamla/Motown",
+    "year": 1973,
+    "rank": 34,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=cPOaluwCL8I"
+  },
+  {
+    "album": "Rubber Soul",
+    "artist": "The Beatles",
+    "label": "Parlophone",
+    "year": 1965,
+    "rank": 35,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=TigBgu7BG34"
+  },
+  {
+    "album": "Off the Wall",
+    "artist": "Michael Jackson",
+    "label": "Epic",
+    "year": 1979,
+    "rank": 36,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "The Chronic",
+    "artist": "Dr. Dre",
+    "label": "Deathrow",
+    "year": 1992,
+    "rank": 37,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=qib9AmACFtI"
+  },
+  {
+    "album": "Blonde on Blonde",
+    "artist": "Bob Dylan",
+    "label": "Columbia",
+    "year": 1966,
+    "rank": 38,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Remain in Light",
+    "artist": "Talking Heads",
+    "label": "Sire",
+    "year": 1980,
+    "rank": 39,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=8f3zmJ9vFOU"
+  },
+  {
+    "album": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars",
+    "artist": "David Bowie",
+    "label": "RCA",
+    "year": 1972,
+    "rank": 40,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=ou8uLo3Ke6U"
+  },
+  {
+    "album": "Let It Bleed",
+    "artist": "The Rolling Stones",
+    "label": "ABKCO",
+    "year": 1969,
+    "rank": 41,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "OK Computer",
+    "artist": "Radiohead",
+    "label": "Capitol",
+    "year": 1997,
+    "rank": 42,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=TneMW2fd0dc"
+  },
+  {
+    "album": "The Low End Theory",
+    "artist": "A Tribe Called Quest",
+    "label": "Jive",
+    "year": 1991,
+    "rank": 43,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Illmatic",
+    "artist": "Nas",
+    "label": "Columbia",
+    "year": 1994,
+    "rank": 44,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Sign O the Times",
+    "artist": "Prince",
+    "label": "Paisley Park/Warner Bros.",
+    "year": 1987,
+    "rank": 45,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Graceland",
+    "artist": "Paul Simon",
+    "label": "Columbia",
+    "year": 1986,
+    "rank": 46,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Ramones",
+    "artist": "Ramones",
+    "label": "Sire",
+    "year": 1976,
+    "rank": 47,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Legend",
+    "artist": "Bob Marley and the Wailers",
+    "label": "Island",
+    "year": 1984,
+    "rank": 48,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Aquemini",
+    "artist": "OutKast",
+    "label": "LaFace",
+    "year": 1998,
+    "rank": 49,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=weLYi9stshY"
+  },
+  {
+    "album": "The Blueprint",
+    "artist": "Jay-Z",
+    "label": "Roc-A-Fella",
+    "year": 2001,
+    "rank": 50,
+    "chosenBefore": false,
+    "youTubeLink": ""
+  },
+  {
+    "album": "The Great Twenty-Eight",
+    "artist": "Chuck Berry",
+    "label": "Chess",
+    "year": 1982,
+    "rank": 51,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Station to Station",
+    "artist": "David Bowie",
+    "label": "RCA",
+    "year": 1976,
+    "rank": 52,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Electric Ladyland",
+    "artist": "Jimi Hendrix",
+    "label": "Reprise",
+    "year": 1968,
+    "rank": 53,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=-PMSZNo_k1M"
+  },
+  {
+    "album": "Star Time",
+    "artist": "James Brown",
+    "label": "Polydor",
+    "year": 1991,
+    "rank": 54,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "label": "EMI",
+    "year": 1973,
+    "rank": 55,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=k9ynZnEBtvw"
+  },
+  {
+    "album": "Exile in Guyville",
+    "artist": "Liz Phair",
+    "label": "Matador",
+    "year": 1993,
+    "rank": 56,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "The Band",
+    "artist": "The Band",
+    "label": "Capitol",
+    "year": 1969,
+    "rank": 57,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=2D9umNUZOlg"
+  },
+  {
+    "album": "Led Zeppelin IV",
+    "artist": "Led Zeppelin",
+    "label": "Atlantic",
+    "year": 1971,
+    "rank": 58,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=0hLESLXqBLI"
+  },
+  {
+    "album": "Talking Book",
+    "artist": "Stevie Wonder",
+    "label": "Tamla/Motown",
+    "year": 1972,
+    "rank": 59,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Astral Weeks",
+    "artist": "Van Morrison",
+    "label": "Warner Bros.",
+    "year": 1968,
+    "rank": 60,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Paid in Full",
+    "artist": "Eric B. and Rakim",
+    "label": "4th & B’way",
+    "year": 1987,
+    "rank": 61,
+    "chosenBefore": false,
+    "youTubeLink": ""
+  },
+  {
+    "album": "Appetite for Destruction",
+    "artist": "Guns N’ Roses",
+    "label": "Geffen",
+    "year": 1987,
+    "rank": 62,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Aja",
+    "artist": "Steely Dan",
+    "label": "ABC",
+    "year": 1977,
+    "rank": 63,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Stankonia",
+    "artist": "OutKast",
+    "label": "LaFace",
+    "year": 2000,
+    "rank": 64,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=whwea4DX700"
+  },
+  {
+    "album": "Live at the Apollo",
+    "artist": "James Brown",
+    "label": "King",
+    "year": 1963,
+    "rank": 65,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=R61iGCD9hgQ"
+  },
+  {
+    "album": "A Love Supreme",
+    "artist": "John Coltrane",
+    "label": "Impulse!",
+    "year": 1965,
+    "rank": 66,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Reasonable Doubt",
+    "artist": "Jay-Z",
+    "label": "Roc-A-Fella",
+    "year": 1996,
+    "rank": 67,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Hounds of Love",
+    "artist": "Kate Bush",
+    "label": "EMI",
+    "year": 1985,
+    "rank": 68,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Jagged Little Pill",
+    "artist": "Alanis Morissette",
+    "label": "Maverick",
+    "year": 1995,
+    "rank": 69,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Straight Outta Compton",
+    "artist": "N.W.A",
+    "label": "Ruthless",
+    "year": 1988,
+    "rank": 70,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=ryVPgHNP-as"
+  },
+  {
+    "album": "Exodus",
+    "artist": "Bob Marley and the Wailers",
+    "label": "Island",
+    "year": 1977,
+    "rank": 71,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Harvest",
+    "artist": "Neil Young",
+    "label": "Reprise",
+    "year": 1972,
+    "rank": 72,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Loveless",
+    "artist": "My Bloody Valentine",
+    "label": "Sire",
+    "year": 1991,
+    "rank": 73,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=bRtGBlOVLCk"
+  },
+  {
+    "album": "The College Dropout",
+    "artist": "Kanye West",
+    "label": "Roc-A-Fella",
+    "year": 2004,
+    "rank": 74,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=6Misle653EM"
+  },
+  {
+    "album": "Lady Soul",
+    "artist": "Aretha Franklin",
+    "label": "Atlantic",
+    "year": 1968,
+    "rank": 75,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Superfly",
+    "artist": "Curtis Mayfield",
+    "label": "Curtom",
+    "year": 1972,
+    "rank": 76,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Whos Next",
+    "artist": "The Who",
+    "label": "Decca",
+    "year": 1971,
+    "rank": 77,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "The Sun Sessions",
+    "artist": "Elvis Presley",
+    "label": "RCA",
+    "year": 1976,
+    "rank": 78,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Blond",
+    "artist": "Frank Ocean",
+    "label": "Boys Don’t Cry",
+    "year": 2016,
+    "rank": 79,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=-tT32VTll5M"
+  },
+  {
+    "album": "Never Mind the Bollocks Here’s the Sex Pistols",
+    "artist": "The Sex Pistols",
+    "label": "Warner Bros.",
+    "year": 1977,
+    "rank": 80,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=LD2i99QPVI0"
+  },
+  {
+    "album": "Beyoncé",
+    "artist": "Beyoncé",
+    "label": "Parkwood/Columbia",
+    "year": 2013,
+    "rank": 81,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "There’s a Riot Goin’ On",
+    "artist": "Sly and the Family Stone",
+    "label": "Epic",
+    "year": 1971,
+    "rank": 82,
+    "chosenBefore": false,
+    "youTubeLink": ""
+  },
+  {
+    "album": "Dusty in Memphis",
+    "artist": "Dusty Springfield",
+    "label": "Atlantic",
+    "year": 1969,
+    "rank": 83,
+    "chosenBefore": false,
+    "youTubeLink": ""
+  },
+  {
+    "album": "Back in Black",
+    "artist": "AC/DC",
+    "label": "Atlantic",
+    "year": 1980,
+    "rank": 84,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=2-fR2rrmw3I"
+  },
+  {
+    "album": "Plastic Ono Band",
+    "artist": "John Lennon",
+    "label": "Apple",
+    "year": 1970,
+    "rank": 85,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "The Doors",
+    "artist": "The Doors",
+    "label": "Elektra",
+    "year": 1967,
+    "rank": 86,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Bitches Brew",
+    "artist": "Miles Davis",
+    "label": "Columbia",
+    "year": 1970,
+    "rank": 87,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Hunky Dory",
+    "artist": "David Bowie",
+    "label": "RCA",
+    "year": 1971,
+    "rank": 88,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Baduizm",
+    "artist": "Erykah Badu",
+    "label": "Kedar",
+    "year": 1997,
+    "rank": 89,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "After the Gold Rush",
+    "artist": "Neil Young",
+    "label": "Reprise",
+    "year": 1970,
+    "rank": 90,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=gGEhbRvfNS4"
+  },
+  {
+    "album": "Darkness on the Edge of Town",
+    "artist": "Bruce Springsteen",
+    "label": "Columbia",
+    "year": 1978,
+    "rank": 91,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Axis: Bold as Love",
+    "artist": "The Jimi Hendrix Experience",
+    "label": "Track",
+    "year": 1967,
+    "rank": 92,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Supa Dupa Fly",
+    "artist": "Missy “Misdemeanor” Elliott",
+    "label": "Goldmind",
+    "year": 1997,
+    "rank": 93,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Fun House",
+    "artist": "The Stooges",
+    "label": "Elektra",
+    "year": 1970,
+    "rank": 94,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Take Care",
+    "artist": "Drake",
+    "label": "Cash Money",
+    "year": 2011,
+    "rank": 95,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Automatic for the People",
+    "artist": "R.E.M.",
+    "label": "Warner Bros.",
+    "year": 1992,
+    "rank": 96,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Master of Puppets",
+    "artist": "Metallica",
+    "label": "Elektra",
+    "year": 1986,
+    "rank": 97,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=K6LA7v1PApU"
+  },
+  {
+    "album": "Car Wheels on a Gravel Road",
+    "artist": "Lucinda Williams",
+    "label": "Mercury",
+    "year": 1998,
+    "rank": 98,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Red",
+    "artist": "Taylor Swift",
+    "label": "Big Machine",
+    "year": 2012,
+    "rank": 99,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Music From Big Pink",
+    "artist": "The Band",
+    "label": "Capitol",
+    "year": 1968,
+    "rank": 100,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Led Zeppelin",
+    "artist": "Led Zeppelin",
+    "label": "Atlantic",
+    "year": 1969,
+    "rank": 101,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=W2bxOJX-E3M"
+  },
+  {
+    "album": "The Clash",
+    "artist": "The Clash",
+    "label": "CBS",
+    "year": 1977,
+    "rank": 102,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=bFgpzVFHqBo"
+  },
+  {
+    "album": "Three Feet High And Rising",
+    "artist": "De La Soul",
+    "label": "Tommy Boy",
+    "year": 1989,
+    "rank": 103,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Sticky Fingers",
+    "artist": "The Rolling Stones",
+    "label": "Rolling Stones",
+    "year": 1971,
+    "rank": 104,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=EWg-5IyM7S8"
+  },
+  {
+    "album": "At Fillmore East",
+    "artist": "The Allman Brothers",
+    "label": "Capricorn",
+    "year": 1971,
+    "rank": 105,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Live Through This",
+    "artist": "Hole",
+    "label": "Geffen",
+    "year": 1994,
+    "rank": 106,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=q5bWWNbvPmY"
+  },
+  {
+    "album": "Marquee Moon",
+    "artist": "Television",
+    "label": "Elektra",
+    "year": 1977,
+    "rank": 107,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "When the Pawn ...",
+    "artist": "Fiona Apple",
+    "label": "Epic",
+    "year": 1999,
+    "rank": 108,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=fmCu07ovtxM"
+  },
+  {
+    "album": "Transformer",
+    "artist": "Lou Reed",
+    "label": "RCA",
+    "year": 1972,
+    "rank": 109,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Court and Spark",
+    "artist": "Joni Mitchell",
+    "label": "Asylum",
+    "year": 1974,
+    "rank": 110,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Control",
+    "artist": "Janet Jackson",
+    "label": "A&M",
+    "year": 1986,
+    "rank": 111,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Goodbye Yellow Brick Road",
+    "artist": "Elton John",
+    "label": "MCA",
+    "year": 1973,
+    "rank": 112,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "The Queen Is Dead",
+    "artist": "The Smiths",
+    "label": "Sire",
+    "year": 1986,
+    "rank": 113,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Is This It",
+    "artist": "The Strokes",
+    "label": "RCA",
+    "year": 2001,
+    "rank": 114,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=0a5Wnuxe5x4"
+  },
+  {
+    "album": "good kid",
+    "artist": "Kendrick Lamar",
+    "label": "TDE",
+    "year": 2012,
+    "rank": 115,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Disintegration",
+    "artist": "The Cure",
+    "label": "Fiction",
+    "year": 1989,
+    "rank": 116,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Late Registration",
+    "artist": "Kanye West",
+    "label": "Roc-A-Fella",
+    "year": 2005,
+    "rank": 117,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=Gbsn6BcmXZo"
+  },
+  {
+    "album": "Hotel California",
+    "artist": "The Eagles",
+    "label": "Asylum",
+    "year": 1976,
+    "rank": 118,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=bPwPJ34zFtA"
+  },
+  {
+    "album": "Stand!",
+    "artist": "Sly and the Family Stone",
+    "label": "Epic",
+    "year": 1969,
+    "rank": 119,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=1jP4Y3JRtoA"
+  },
+  {
+    "album": "Moondance",
+    "artist": "Van Morrison",
+    "label": "Warner Bros.",
+    "year": 1970,
+    "rank": 120,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=_RpXQs69ixs"
+  },
+  {
+    "album": "This Year’s Model",
+    "artist": "Elvis Costello",
+    "label": "Columbia",
+    "year": 1978,
+    "rank": 121,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "The Downward Spiral",
+    "artist": "Nine Inch Nails",
+    "label": "Nothing/Interscope",
+    "year": 1994,
+    "rank": 122,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Led Zeppelin II",
+    "artist": "Led Zeppelin",
+    "label": "Atlantic",
+    "year": 1969,
+    "rank": 123,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=W2bxOJX-E3M"
+  },
+  {
+    "album": "Achtung Baby",
+    "artist": "U2",
+    "label": "Island",
+    "year": 1991,
+    "rank": 124,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Pauls Boutique",
+    "artist": "Beastie Boys",
+    "label": "Capitol",
+    "year": 1989,
+    "rank": 125,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=iySa7HTWgSI"
+  },
+  {
+    "album": "My Life",
+    "artist": "Mary J. Blige",
+    "label": "Uptown",
+    "year": 1994,
+    "rank": 126,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Modern Sounds in Country and Western Music",
+    "artist": "Ray Charles",
+    "label": "ABC-Paramount",
+    "year": 1962,
+    "rank": 127,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "A Night at the Opera",
+    "artist": "Queen",
+    "label": "Elektra",
+    "year": 1975,
+    "rank": 128,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "The Wall",
+    "artist": "Pink Floyd",
+    "label": "Columbia",
+    "year": 1979,
+    "rank": 129,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=r48BLz42NuI"
+  },
+  {
+    "album": "1999",
+    "artist": "Prince",
+    "label": "Warner Bros.",
+    "year": 1982,
+    "rank": 130,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=4BQx0p1nVzg"
+  },
+  {
+    "album": "Dummy",
+    "artist": "Portishead",
+    "label": "Go! Beat",
+    "year": 1994,
+    "rank": 131,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=sAB5TEk2sxE"
+  },
+  {
+    "album": "40 Greatest Hits",
+    "artist": "Hank Williams",
+    "label": "Polydor",
+    "year": 1978,
+    "rank": 132,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Hejira",
+    "artist": "Joni Mitchell",
+    "label": "Asylum",
+    "year": 1976,
+    "rank": 133,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "The Score",
+    "artist": "Fugees",
+    "label": "Columbia",
+    "year": 1996,
+    "rank": 134,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=7UfVr5Xib50"
+  },
+  {
+    "album": "The Joshua Tree",
+    "artist": "U2",
+    "label": "Island",
+    "year": 1987,
+    "rank": 135,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Maggot Brain",
+    "artist": "Funkadelic",
+    "label": "Westbound",
+    "year": 1971,
+    "rank": 136,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=21sP7orRS3c"
+  },
+  {
+    "album": "21",
+    "artist": "Adele",
+    "label": "Columbia",
+    "year": 2011,
+    "rank": 137,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "The Immaculate Collection",
+    "artist": "Madonna",
+    "label": "Sire",
+    "year": 1990,
+    "rank": 138,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Paranoid",
+    "artist": "Black Sabbath",
+    "label": "Vertigo",
+    "year": 1970,
+    "rank": 139,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=fWvKvOViM3g"
+  },
+  {
+    "album": "Catch a Fire",
+    "artist": "Bob Marley and the Wailers",
+    "label": "Island",
+    "year": 1973,
+    "rank": 140,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Doolittle",
+    "artist": "Pixies",
+    "label": "4AD/Elektra",
+    "year": 1989,
+    "rank": 141,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Born in the U.S.A.",
+    "artist": "Bruce Springsteen",
+    "label": "Columbia",
+    "year": 1984,
+    "rank": 142,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "The Velvet Underground",
+    "artist": "The Velvet Underground",
+    "label": "MGM",
+    "year": 1969,
+    "rank": 143,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Physical Graffiti",
+    "artist": "Led Zeppelin",
+    "label": "Swan Song",
+    "year": 1975,
+    "rank": 144,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=EH6I31ev1GM"
+  },
+  {
+    "album": "The Marshall Mathers LP",
+    "artist": "Eminem",
+    "label": "Interscope",
+    "year": 2000,
+    "rank": 145,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Parallel Lines",
+    "artist": "Blondie",
+    "label": "Chrysalis",
+    "year": 1978,
+    "rank": 146,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=JpW2Du9kiUg"
+  },
+  {
+    "album": "Grace",
+    "artist": "Jeff Buckley",
+    "label": "Columbia",
+    "year": 1994,
+    "rank": 147,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Channel Orange",
+    "artist": "Frank Ocean",
+    "label": "Def Jam",
+    "year": 2012,
+    "rank": 148,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=5d5gxMFdAQo"
+  },
+  {
+    "album": "John Prine",
+    "artist": "John Prine",
+    "label": "Atlantic",
+    "year": 1971,
+    "rank": 149,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=7lHkugF0nyI"
+  },
+  {
+    "album": "Nebraska",
+    "artist": "Bruce Springsteen",
+    "label": "Columbia",
+    "year": 1982,
+    "rank": 150,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Faith",
+    "artist": "George Michael",
+    "label": "Columbia",
+    "year": 1987,
+    "rank": 151,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=Y8iGlmRJoyY"
+  },
+  {
+    "album": "Pretenders",
+    "artist": "The Pretenders",
+    "label": "Sire",
+    "year": 1980,
+    "rank": 152,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=HmwpEmD6-QU"
+  },
+  {
+    "album": "Rid of Me",
+    "artist": "PJ Harvey",
+    "label": "Island",
+    "year": 1993,
+    "rank": 153,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Amazing Grace",
+    "artist": "Aretha Franklin",
+    "label": "Atlantic",
+    "year": 1972,
+    "rank": 154,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=tkke4ctTYf8"
+  },
+  {
+    "album": "The Black Album",
+    "artist": "Jay-Z",
+    "label": "Roc-A-Fella",
+    "year": 2003,
+    "rank": 155,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Let It Be",
+    "artist": "The Replacements",
+    "label": "Twin/Tone",
+    "year": 1984,
+    "rank": 156,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "(Whats the Story) Morning Glory?",
+    "artist": "Oasis",
+    "label": "Epic",
+    "year": 1995,
+    "rank": 157,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Mamas Gun",
+    "artist": "Erykah Badu",
+    "label": "Motown",
+    "year": 2000,
+    "rank": 158,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Synchronicity",
+    "artist": "The Police",
+    "label": "A&M",
+    "year": 1983,
+    "rank": 159,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Ten",
+    "artist": "Pearl Jam",
+    "label": "Epic",
+    "year": 1991,
+    "rank": 160,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=S-cRKgcTFfI"
+  },
+  {
+    "album": "Stills &amp; Nash",
+    "artist": "Crosby",
+    "label": "Atlantic",
+    "year": 1969,
+    "rank": 161,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=Hm0sishe02U"
+  },
+  {
+    "album": "Different Class",
+    "artist": "Pulp",
+    "label": "Island",
+    "year": 1995,
+    "rank": 162,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Saturday Night Fever",
+    "artist": "Various Artists",
+    "label": "RSO",
+    "year": 1977,
+    "rank": 163,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "At Folsom Prison",
+    "artist": "Johnny Cash",
+    "label": "Columbia",
+    "year": 1968,
+    "rank": 164,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=GpZ-2HDJzFw"
+  },
+  {
+    "album": "Murmur",
+    "artist": "R.E.M.",
+    "label": "I.R.S.",
+    "year": 1983,
+    "rank": 165,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=dBwr2GZCmQM"
+  },
+  {
+    "album": "20 Golden Greats",
+    "artist": "Buddy Holly",
+    "label": "MCA",
+    "year": 1978,
+    "rank": 166,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Violator",
+    "artist": "Depeche Mode",
+    "label": "Sire",
+    "year": 1990,
+    "rank": 167,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Can’t Buy a Thrill",
+    "artist": "Steely Dan",
+    "label": "ABC",
+    "year": 1972,
+    "rank": 168,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=t-w7yN3L-_I"
+  },
+  {
+    "album": "The Stranger",
+    "artist": "Billy Joel",
+    "label": "Columbia",
+    "year": 1977,
+    "rank": 169,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Disraeli Gears",
+    "artist": "Cream",
+    "label": "Reaction",
+    "year": 1967,
+    "rank": 170,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Daydream Nation",
+    "artist": "Sonic Youth",
+    "label": "Enigma",
+    "year": 1988,
+    "rank": 171,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Bridge Over Troubled Water",
+    "artist": "Simon and Garfunkel",
+    "label": "Columbia",
+    "year": 1970,
+    "rank": 172,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=KYaXk8mAo2U"
+  },
+  {
+    "album": "In Utero",
+    "artist": "Nirvana",
+    "label": "Geffen",
+    "year": 1993,
+    "rank": 173,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=0Ca2csU_f-o"
+  },
+  {
+    "album": "The Harder They Come: Original Soundtrack",
+    "artist": "Jimmy Cliff and Various Artists",
+    "label": "Mango",
+    "year": 1972,
+    "rank": 174,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=7Znh0OM9jiA"
+  },
+  {
+    "album": "DAMN.",
+    "artist": "Kendrick Lamar",
+    "label": "TDE",
+    "year": 2017,
+    "rank": 175,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=5OaGBXAzFY0"
+  },
+  {
+    "album": "Fear of a Black Planet",
+    "artist": "Public Enemy",
+    "label": "Def Jam/Columbia",
+    "year": 1990,
+    "rank": 176,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=-31b86qFmQU"
+  },
+  {
+    "album": "Every Picture Tells a Story",
+    "artist": "Rod Stewart",
+    "label": "Mercury",
+    "year": 1971,
+    "rank": 177,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Otis Blue",
+    "artist": "Otis Redding",
+    "label": "Volt",
+    "year": 1965,
+    "rank": 178,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=za-EMHyQZbc"
+  },
+  {
+    "album": "Life After Death",
+    "artist": "Notorious B.I.G.",
+    "label": "Bad Boy",
+    "year": 1997,
+    "rank": 179,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=rCyWFj0nLyk"
+  },
+  {
+    "album": "Forever Changes",
+    "artist": "Love",
+    "label": "Elektra",
+    "year": 1967,
+    "rank": 180,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Bringing It All Back Home",
+    "artist": "Bob Dylan",
+    "label": "Columbia",
+    "year": 1965,
+    "rank": 181,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Sweet Baby James",
+    "artist": "James Taylor",
+    "label": "Warner Bros.",
+    "year": 1970,
+    "rank": 182,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=fyoZLKgLcys"
+  },
+  {
+    "album": "Brown Sugar",
+    "artist": "D'Angelo",
+    "label": "EMI",
+    "year": 1995,
+    "rank": 183,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "She’s So Unusual",
+    "artist": "Cyndi Lauper",
+    "label": "Portrait",
+    "year": 1983,
+    "rank": 184,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Beggars Banquet",
+    "artist": "The Rolling Stones",
+    "label": "Decca",
+    "year": 1968,
+    "rank": 185,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Blood Sugar Sex Magik",
+    "artist": "Red Hot Chili Peppers",
+    "label": "Warner Bros.",
+    "year": 1991,
+    "rank": 186,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=kziGsq8reTc"
+  },
+  {
+    "album": "AmeriKKKa’s Most Wanted",
+    "artist": "Ice Cube",
+    "label": "Priority",
+    "year": 1990,
+    "rank": 187,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=J6_BPjEr3bY"
+  },
+  {
+    "album": "Electric Warrior",
+    "artist": "T. Rex",
+    "label": "Reprise",
+    "year": 1971,
+    "rank": 188,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=xhRjj4oIsAY"
+  },
+  {
+    "album": "Dig Me Out",
+    "artist": "Sleater-Kinney",
+    "label": "Kill Rock Stars",
+    "year": 1997,
+    "rank": 189,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Tommy",
+    "artist": "The Who",
+    "label": "Decca",
+    "year": 1969,
+    "rank": 190,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "At Last!",
+    "artist": "Etta James",
+    "label": "Argo",
+    "year": 1961,
+    "rank": 191,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=1qJU8G7gR_g"
+  },
+  {
+    "album": "Licensed to Ill",
+    "artist": "Beastie Boys",
+    "label": "Def Jam/Columbia",
+    "year": 1986,
+    "rank": 192,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=QCM0-irFCSk"
+  },
+  {
+    "album": "Willy and the Poor Boys",
+    "artist": "Creedence Clearwater Revival",
+    "label": "Fantasy",
+    "year": 1969,
+    "rank": 193,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Bad",
+    "artist": "Michael Jackson",
+    "label": "Epic",
+    "year": 1987,
+    "rank": 194,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=ncvBut6QMPo"
+  },
+  {
+    "album": "Songs of Leonard Cohen",
+    "artist": "Leonard Cohen",
+    "label": "Columbia",
+    "year": 1967,
+    "rank": 195,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Body Talk",
+    "artist": "Robyn",
+    "label": "Konichiwa",
+    "year": 2010,
+    "rank": 196,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Meet the Beatles!",
+    "artist": "The Beatles",
+    "label": "Capitol",
+    "year": 1964,
+    "rank": 197,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=snyePv2wO-s"
+  },
+  {
+    "album": "The B-52s",
+    "artist": "The B-52's",
+    "label": "Warner Bros.",
+    "year": 1979,
+    "rank": 198,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=PtH-tWjB_aQ"
+  },
+  {
+    "album": "Slanted and Enchanted",
+    "artist": "Pavement",
+    "label": "Matador",
+    "year": 1993,
+    "rank": 199,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=yczEbY0YLCQ"
+  },
+  {
+    "album": "Diamond Life",
+    "artist": "Sade",
+    "label": "Epic",
+    "year": 1984,
+    "rank": 200,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=0WcbAWQtocc"
+  },
+  {
+    "album": "Midnight Marauders",
+    "artist": "A Tribe Called Quest",
+    "label": "Jive",
+    "year": 1993,
+    "rank": 201,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=CVKrrs5K9v0"
+  },
+  {
+    "album": "Homogenic",
+    "artist": "Björk",
+    "label": "Elektra",
+    "year": 1997,
+    "rank": 202,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Pink Moon",
+    "artist": "Nick Drake",
+    "label": "Island",
+    "year": 1979,
+    "rank": 203,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=_1IH3q2ULsQ"
+  },
+  {
+    "album": "Graduation",
+    "artist": "Kanye West",
+    "label": "Roc-A-Fella",
+    "year": 2007,
+    "rank": 204,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Tea for the Tillerman",
+    "artist": "Cat Stevens",
+    "label": "A&M",
+    "year": 1970,
+    "rank": 205,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Low",
+    "artist": "David Bowie",
+    "label": "RCA",
+    "year": 1977,
+    "rank": 206,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=KpEgPjR5AKI"
+  },
+  {
+    "album": "Eagles",
+    "artist": "Eagles",
+    "label": "Asylum",
+    "year": 1972,
+    "rank": 207,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Tha Carter III",
+    "artist": "Lil Wayne",
+    "label": "Cash Money/Universal Motown",
+    "year": 2008,
+    "rank": 208,
+    "chosenBefore": true,
+    "youTubeLink": ""
+  },
+  {
+    "album": "Raising Hell",
+    "artist": "Run-DMC",
+    "label": "Profile",
+    "year": 1986,
+    "rank": 209,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "The Birth of Soul",
+    "artist": "Ray Charles",
+    "label": "Atlantic",
+    "year": 1991,
+    "rank": 210,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Unknown Pleasures",
+    "artist": "Joy Divison",
+    "label": "Factory",
+    "year": 1980,
+    "rank": 211,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Wild Is the Wind",
+    "artist": "Nina Simone",
+    "label": "Philips",
+    "year": 1966,
+    "rank": 212,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "The Idler Wheel",
+    "artist": "Fiona Apple",
+    "label": "Epic",
+    "year": 2012,
+    "rank": 213,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Wildflowers",
+    "artist": "Tom Petty",
+    "label": "Warner Bros.",
+    "year": 1994,
+    "rank": 214,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "American Beauty",
+    "artist": "Grateful Dead",
+    "label": "Warner Bros.",
+    "year": 1970,
+    "rank": 215,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=tuc6Jgwteak"
+  },
+  {
+    "album": "Either/Or",
+    "artist": "Elliott Smith",
+    "label": "Kill Rock Stars",
+    "year": 1997,
+    "rank": 216,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=9g-vyrGKGWM"
+  },
+  {
+    "album": "Definitely Maybe",
+    "artist": "Oasis",
+    "label": "Epic",
+    "year": 1994,
+    "rank": 217,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "CrazySexyCool",
+    "artist": "TLC",
+    "label": "LaFace",
+    "year": 1994,
+    "rank": 218,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Only Built 4 Cuban Linx",
+    "artist": "Raekwon",
+    "label": "Loud/RCA",
+    "year": 1995,
+    "rank": 219,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Stills",
+    "artist": "Crosby",
+    "label": "Epic",
+    "year": 1970,
+    "rank": 220,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=Hm0sishe02U"
+  },
+  {
+    "album": "Rage Against the Machine",
+    "artist": "Rage Against the Machine",
+    "label": "Epic",
+    "year": 1992,
+    "rank": 221,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=MAnsR_7VYKQ"
+  },
+  {
+    "album": "Ray of Light",
+    "artist": "Madonna",
+    "label": "Maverick",
+    "year": 1998,
+    "rank": 222,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Imagine",
+    "artist": "John Lennon",
+    "label": "Apple",
+    "year": 1971,
+    "rank": 223,
+    "chosenBefore": false,
+    "youTubeLink": ""
+  },
+  {
+    "album": "Fly",
+    "artist": "Dixie Chicks",
+    "label": "Monument",
+    "year": 1999,
+    "rank": 224,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Yankee Hotel Foxtrot",
+    "artist": "Wilco",
+    "label": "Nonesuch",
+    "year": 2001,
+    "rank": 225,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=8DeMYEsr6Zs"
+  },
+  {
+    "album": "Layla and Other Assorted Love Songs",
+    "artist": "Derek and the Dominos",
+    "label": "Atco",
+    "year": 1970,
+    "rank": 226,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Here’s Little Richard",
+    "artist": "Little Richard",
+    "label": "Specialty",
+    "year": 1957,
+    "rank": 227,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "De La Soul Is Dead",
+    "artist": "De La Soul",
+    "label": "Tommy Boy",
+    "year": 1991,
+    "rank": 228,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "The Ultimate Collection",
+    "artist": "Patsy Cline",
+    "label": "Universal",
+    "year": 2000,
+    "rank": 229,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Anti",
+    "artist": "Rihanna",
+    "label": "Roc Nation",
+    "year": 2016,
+    "rank": 230,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Damn the Torpedoes",
+    "artist": "Tom Petty and the Heartbreakers",
+    "label": "Backstreet",
+    "year": 1979,
+    "rank": 231,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Giant Steps",
+    "artist": "John Coltrane",
+    "label": "Atlantic",
+    "year": 1960,
+    "rank": 232,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=xy_fxxj1mMY"
+  },
+  {
+    "album": "Little Earthquakes",
+    "artist": "Tori Amos",
+    "label": "Atlantic",
+    "year": 1992,
+    "rank": 233,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Master of Reality",
+    "artist": "Black Sabbath",
+    "label": "Veritgo",
+    "year": 1971,
+    "rank": 234,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Metallica (The Black Album)",
+    "artist": "Metallica",
+    "label": "Elektra",
+    "year": 1991,
+    "rank": 235,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Discovery",
+    "artist": "Daft Punk",
+    "label": "Virgin",
+    "year": 2001,
+    "rank": 236,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=mdw1JeDjWH8"
+  },
+  {
+    "album": "Red Headed Stranger",
+    "artist": "Willie Nelson",
+    "label": "Columbia",
+    "year": 1975,
+    "rank": 237,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Trans Europe Express",
+    "artist": "Kraftwerk",
+    "label": "Kling Klang",
+    "year": 1977,
+    "rank": 238,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Criminal Minded",
+    "artist": "Boogie Down Productions",
+    "label": "B-Boy",
+    "year": 1987,
+    "rank": 239,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Live at the Harlem Square Club",
+    "artist": "Sam Cooke",
+    "label": "RCA",
+    "year": 1985,
+    "rank": 240,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=yBfsUCahFlo"
+  },
+  {
+    "album": "Blue Lines",
+    "artist": "Massive Attack",
+    "label": "Wildbunch/Virgin",
+    "year": 1991,
+    "rank": 241,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Loaded",
+    "artist": "The Velvet Underground",
+    "label": "Cotillion",
+    "year": 1970,
+    "rank": 242,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Odessey and Oracle",
+    "artist": "The Zombies",
+    "label": "Date",
+    "year": 1968,
+    "rank": 243,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=goDxhJl1UJE"
+  },
+  {
+    "album": "808s &amp; Heartbreak",
+    "artist": "Kanye West",
+    "label": "Roc-A-Fella",
+    "year": 2008,
+    "rank": 244,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=Ay2JS4lPV2s"
+  },
+  {
+    "album": "Heaven or Las Vegas",
+    "artist": "Cocteau Twins",
+    "label": "4AD",
+    "year": 1990,
+    "rank": 245,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Mama Said Knock You Out",
+    "artist": "LL Cool J",
+    "label": "Def Jam/Columbia",
+    "year": 1991,
+    "rank": 246,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Love Deluxe",
+    "artist": "Sade",
+    "label": "Epic",
+    "year": 1992,
+    "rank": 247,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=Nc9UQRyk9AA"
+  },
+  {
+    "album": "American Idiot",
+    "artist": "Green Day",
+    "label": "Reprise",
+    "year": 2004,
+    "rank": 248,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Whitney Houston",
+    "artist": "Whitney Houston",
+    "label": "Arista",
+    "year": 1985,
+    "rank": 249,
+    "chosenBefore": false,
+    "youTubeLink": ""
+  },
+  {
+    "album": "Singles Going Steady",
+    "artist": "Buzzcocks",
+    "label": "I.R.S.",
+    "year": 1979,
+    "rank": 250,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Honky Château",
+    "artist": "Elton John",
+    "label": "Uni",
+    "year": 1972,
+    "rank": 251,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Q: Are We Not Men? A: We Are Devo!",
+    "artist": "Devo",
+    "label": "Warner Bros.",
+    "year": 1978,
+    "rank": 252,
+    "chosenBefore": false,
+    "youTubeLink": ""
+  },
+  {
+    "album": "The Piper at the Gates of Dawn",
+    "artist": "Pink Floyd",
+    "label": "EMI/Columbia",
+    "year": 1967,
+    "rank": 253,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Head Hunters",
+    "artist": "Herbie Hancock",
+    "label": "Columbia",
+    "year": 1973,
+    "rank": 254,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=3m3qOD-hhrQ"
+  },
+  {
+    "album": "The Freewheelin Bob Dylan",
+    "artist": "Bob Dylan",
+    "label": "Columbia",
+    "year": 1963,
+    "rank": 255,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Tracy Chapman",
+    "artist": "Tracy Chapman",
+    "label": "Elektra",
+    "year": 1988,
+    "rank": 256,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Coat of Many Colors",
+    "artist": "Dolly Parton",
+    "label": "RCA",
+    "year": 1971,
+    "rank": 257,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "The Hissing of Summer Lawns",
+    "artist": "Joni Mitchell",
+    "label": "Asylum",
+    "year": 1975,
+    "rank": 258,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Pearl",
+    "artist": "Janis Joplin",
+    "label": "Columbia",
+    "year": 1971,
+    "rank": 259,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=7AaMtTG7kjs"
+  },
+  {
+    "album": "Cut",
+    "artist": "The Slits",
+    "label": "Antilles",
+    "year": 1979,
+    "rank": 260,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Check Your Head",
+    "artist": "Beastie Boys",
+    "label": "Capitol",
+    "year": 1992,
+    "rank": 261,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Power",
+    "artist": "New Order",
+    "label": "Factory",
+    "year": 1983,
+    "rank": 262,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=dFWWeilVqtw"
+  },
+  {
+    "album": "Hard Days Night",
+    "artist": "The Beatles",
+    "label": "United Artists",
+    "year": 1964,
+    "rank": 263,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Wish You Were Here",
+    "artist": "Pink Floyd",
+    "label": "Columbia",
+    "year": 1975,
+    "rank": 264,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=TMy_mYkwl4M"
+  },
+  {
+    "album": "Wowee Zowee",
+    "artist": "Pavement",
+    "label": "Matador",
+    "year": 1995,
+    "rank": 265,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Help!",
+    "artist": "The Beatles",
+    "label": "Capitol",
+    "year": 1965,
+    "rank": 266,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Double Nickels on the Dime",
+    "artist": "Minutemen",
+    "label": "SST",
+    "year": 1984,
+    "rank": 267,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=v8ebtAYQADM"
+  },
+  {
+    "album": "Sail Away",
+    "artist": "Randy Newman",
+    "label": "Reprise",
+    "year": 1972,
+    "rank": 268,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Yeezus",
+    "artist": "Kanye West",
+    "label": "Roc-A-Fella",
+    "year": 2013,
+    "rank": 269,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Golden Hour",
+    "artist": "Kacey Musgraves",
+    "label": "MCA Nashville",
+    "year": 2018,
+    "rank": 270,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=maONL_HfI20"
+  },
+  {
+    "album": "What’s the 411?",
+    "artist": "Mary J. Blige",
+    "label": "Uptown/MCA",
+    "year": 1992,
+    "rank": 271,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=4t3ilsGhXkE"
+  },
+  {
+    "album": "White Light/White Heat",
+    "artist": "The Velvet Underground",
+    "label": "Verve",
+    "year": 1968,
+    "rank": 272,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Entertainment!",
+    "artist": "Gang of Four",
+    "label": "Warner Bros.",
+    "year": 1979,
+    "rank": 273,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=ORkPwLc5K54"
+  },
+  {
+    "album": "Sweetheart of the Rodeo",
+    "artist": "The Byrds",
+    "label": "Columbia",
+    "year": 1968,
+    "rank": 274,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Curtis",
+    "artist": "Curtis Mayfield",
+    "label": "Curtom",
+    "year": 1970,
+    "rank": 275,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=084Z5BuaLrE"
+  },
+  {
+    "album": "The Bends",
+    "artist": "Radiohead",
+    "label": "Capitol",
+    "year": 1995,
+    "rank": 276,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=6VzsS4oil6U"
+  },
+  {
+    "album": "The Diary of Alicia Keys",
+    "artist": "Alicia Keys",
+    "label": "J Records",
+    "year": 2003,
+    "rank": 277,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=vBl42mCnRGA"
+  },
+  {
+    "album": "Houses of the Holy",
+    "artist": "Led Zeppelin",
+    "label": "Atlantic",
+    "year": 1973,
+    "rank": 278,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=97FpOlzPqFM"
+  },
+  {
+    "album": "MTV Unplugged in New York",
+    "artist": "Nirvana",
+    "label": "Geffen",
+    "year": 1994,
+    "rank": 279,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=IAp6bQfTQ20"
+  },
+  {
+    "album": "Get Rich or Die Tryin",
+    "artist": "50 Cent",
+    "label": "Interscope",
+    "year": 2002,
+    "rank": 280,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=fIYvlERIiBM"
+  },
+  {
+    "album": "Nilsson Schmilsson",
+    "artist": "Harry Nilsson",
+    "label": "RCA",
+    "year": 1971,
+    "rank": 281,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "In the Wee Small Hours",
+    "artist": "Frank Sinatra",
+    "label": "Capitol",
+    "year": 1955,
+    "rank": 282,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=j7Jfs9MY0hg"
+  },
+  {
+    "album": "Bad Girls",
+    "artist": "Donna Summer",
+    "label": "Casablanca",
+    "year": 1975,
+    "rank": 283,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=TB_G46Q5KbM"
+  },
+  {
+    "album": "Down Every Road 1962-1994",
+    "artist": "Merle Haggard",
+    "label": "Capitol",
+    "year": 1996,
+    "rank": 284,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=UNu_a8kEUPU"
+  },
+  {
+    "album": "Third/Sister Lovers",
+    "artist": "Big Star",
+    "label": "PVC",
+    "year": 1978,
+    "rank": 285,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=cRBHZwTQPK8"
+  },
+  {
+    "album": "Californication",
+    "artist": "Red Hot Chili Peppers",
+    "label": "Warner Bros.",
+    "year": 1999,
+    "rank": 286,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=w_zz0JNhujE"
+  },
+  {
+    "album": "Mr. Tambourine Man",
+    "artist": "The Byrds",
+    "label": "Columbia",
+    "year": 1965,
+    "rank": 287,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "The Modern Lovers",
+    "artist": "The Modern Lovers",
+    "label": "Beserkley",
+    "year": 1976,
+    "rank": 288,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Post",
+    "artist": "Björk",
+    "label": "Elektra",
+    "year": 1995,
+    "rank": 289,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Speakerboxxx/The Love Below",
+    "artist": "OutKast",
+    "label": "LaFace",
+    "year": 2003,
+    "rank": 290,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=RTg2IqSy8xY"
+  },
+  {
+    "album": "The Writing’s on the Wall",
+    "artist": "Destiny's Child",
+    "label": "Columbia",
+    "year": 1999,
+    "rank": 291,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Van Halen",
+    "artist": "Van Halen",
+    "label": "Warner Bros.",
+    "year": 1978,
+    "rank": 292,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Last Splash",
+    "artist": "The Breeders",
+    "label": "Elektra",
+    "year": 1993,
+    "rank": 293,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Weezer (The Blue Album)",
+    "artist": "Weezer",
+    "label": "Geffen",
+    "year": 1994,
+    "rank": 294,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Random Access Memories",
+    "artist": "Daft Punk",
+    "label": "Columbia",
+    "year": 2013,
+    "rank": 295,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=wIMSU8otS-g"
+  },
+  {
+    "album": "Rust Never Sleeps",
+    "artist": "Neil Young",
+    "label": "Reprise",
+    "year": 1979,
+    "rank": 296,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "So",
+    "artist": "Peter Gabriel",
+    "label": "Geffen",
+    "year": 1986,
+    "rank": 297,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Full Moon Fever",
+    "artist": "Tom Petty",
+    "label": "MCA",
+    "year": 1989,
+    "rank": 298,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=xZfO9ZIM7U4"
+  },
+  {
+    "album": "Live at the Regal",
+    "artist": "B.B. King",
+    "label": "ABC-Paramount",
+    "year": 1965,
+    "rank": 299,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=xrj09iq-rEQ"
+  },
+  {
+    "album": "Come on Over",
+    "artist": "Shania Twain",
+    "label": "Mercury",
+    "year": 1997,
+    "rank": 300,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "New York Dolls",
+    "artist": "New York Dolls",
+    "label": "Mercury",
+    "year": 1973,
+    "rank": 301,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=50JakXZWZ_c"
+  },
+  {
+    "album": "Tonights the Night",
+    "artist": "Neil Young",
+    "label": "Reprise",
+    "year": 1975,
+    "rank": 302,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "The Definitive Collection",
+    "artist": "ABBA",
+    "label": "Universal",
+    "year": 2001,
+    "rank": 303,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=HkNyBwr8PJA"
+  },
+  {
+    "album": "Just As I Am",
+    "artist": "Bill Withers",
+    "label": "Sussex",
+    "year": 1971,
+    "rank": 304,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=BwMk-acDbMI"
+  },
+  {
+    "album": "Alive!",
+    "artist": "Kiss",
+    "label": "Casablanca",
+    "year": 1975,
+    "rank": 305,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=_TlBaIlWvOE"
+  },
+  {
+    "album": "Im Still in Love With You",
+    "artist": "Al Green",
+    "label": "Hi",
+    "year": 1972,
+    "rank": 306,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Portrait of a Legend",
+    "artist": "Sam Cooke",
+    "label": "ABKCO",
+    "year": 2003,
+    "rank": 307,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Here Come the Warm Jets",
+    "artist": "Brian Eno",
+    "label": "Island",
+    "year": 1974,
+    "rank": 308,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Closer",
+    "artist": "Joy Divison",
+    "label": "Factory",
+    "year": 1980,
+    "rank": 309,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Pink Flag",
+    "artist": "Wire",
+    "label": "Harvest",
+    "year": 1977,
+    "rank": 310,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=1Wi94-JGrtc"
+  },
+  {
+    "album": "On the Beach",
+    "artist": "Neil Young",
+    "label": "Reprise",
+    "year": 1974,
+    "rank": 311,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=C9CkvAQkQLs"
+  },
+  {
+    "album": "A Seat at the Table",
+    "artist": "Solange",
+    "label": "Saint/Columbia",
+    "year": 2016,
+    "rank": 312,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Stories From the City",
+    "artist": "PJ Harvey",
+    "label": "Island",
+    "year": 2000,
+    "rank": 313,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "One in a Million",
+    "artist": "Aaliyah",
+    "label": "Blackground/Atlantic",
+    "year": 1996,
+    "rank": 314,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=KKSz4NE6PwY"
+  },
+  {
+    "album": "El Mal Querer",
+    "artist": "Rosalía",
+    "label": "Sony",
+    "year": 2018,
+    "rank": 315,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "The Who Sell Out",
+    "artist": "The Who",
+    "label": "Decca",
+    "year": 1967,
+    "rank": 316,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Lady in Satin",
+    "artist": "Billie Holiday",
+    "label": "Columbia",
+    "year": 1958,
+    "rank": 317,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=gncbydxqE4Y"
+  },
+  {
+    "album": "The Velvet Rope",
+    "artist": "Janet Jackson",
+    "label": "Virgin",
+    "year": 1997,
+    "rank": 318,
+    "chosenBefore": false,
+    "youTubeLink": ""
+  },
+  {
+    "album": "The Stone Roses",
+    "artist": "The Stone Roses",
+    "label": "Silvertone",
+    "year": 1989,
+    "rank": 319,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=P_9PU0Si4b0"
+  },
+  {
+    "album": "Los Angeles",
+    "artist": "X",
+    "label": "Slash",
+    "year": 1980,
+    "rank": 320,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=5uF0kUP1Ldc"
+  },
+  {
+    "album": "Norman Fucking Rockwell!",
+    "artist": "Lana Del Rey",
+    "label": "Polydor/Interscope",
+    "year": 2019,
+    "rank": 321,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=bnl4hHNvOv0"
+  },
+  {
+    "album": "From Elvis in Memphis",
+    "artist": "Elvis Presley",
+    "label": "RCA",
+    "year": 1969,
+    "rank": 322,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Sandinista!",
+    "artist": "The Clash",
+    "label": "Epic",
+    "year": 1980,
+    "rank": 323,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "A Rush of Blood to the Head",
+    "artist": "Coldplay",
+    "label": "Capitol",
+    "year": 2002,
+    "rank": 324,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=SYjTuKMugEE"
+  },
+  {
+    "album": "All Killer No Filler!",
+    "artist": "Jerry Lee Lewis",
+    "label": "Rhino",
+    "year": 1993,
+    "rank": 325,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=MjUKowu6ZFk"
+  },
+  {
+    "album": "Dirty Mind",
+    "artist": "Prince",
+    "label": "Warner Bros.",
+    "year": 1980,
+    "rank": 326,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Live at Leeds",
+    "artist": "The Who",
+    "label": "Decca",
+    "year": 1970,
+    "rank": 327,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Modern Vampires of the City",
+    "artist": "Vampire Weekend",
+    "label": "XL",
+    "year": 2013,
+    "rank": 328,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Endtroducing.....",
+    "artist": "DJ Shadow",
+    "label": "Mo’ Wax",
+    "year": 1996,
+    "rank": 329,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Aftermath",
+    "artist": "The Rolling Stones",
+    "label": "London",
+    "year": 1966,
+    "rank": 330,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Like a Prayer",
+    "artist": "Madonna",
+    "label": "Sire",
+    "year": 1989,
+    "rank": 331,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Elvis Presley",
+    "artist": "Elvis Presley",
+    "label": "RCA",
+    "year": 1956,
+    "rank": 332,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Still Bill",
+    "artist": "Bill Withers",
+    "label": "Sussex",
+    "year": 1972,
+    "rank": 333,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Abraxas",
+    "artist": "Santana",
+    "label": "Columbia",
+    "year": 1970,
+    "rank": 334,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=9m9wwP4LNOQ"
+  },
+  {
+    "album": "The Basement Tapes",
+    "artist": "Bob Dylan and the Band",
+    "label": "Columbia",
+    "year": 1975,
+    "rank": 335,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Avalon",
+    "artist": "Roxy Music",
+    "label": "E.G./Warner Bros.",
+    "year": 1982,
+    "rank": 336,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=CVHzVqL0eKo"
+  },
+  {
+    "album": "John Wesley Harding",
+    "artist": "Bob Dylan",
+    "label": "Columbia",
+    "year": 1967,
+    "rank": 337,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Another Green World",
+    "artist": "Brian Eno",
+    "label": "Island",
+    "year": 19755,
+    "rank": 338,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Rhythm Nation 1814",
+    "artist": "Janet Jackson",
+    "label": "A&amp;M",
+    "year": 1989,
+    "rank": 339,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Doggystyle",
+    "artist": "Snoop Doggy Dogg",
+    "label": "Death Row/Interscope",
+    "year": 1993,
+    "rank": 340,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Siamese Dream",
+    "artist": "The Smashing Pumpkins",
+    "label": "Virgin",
+    "year": 1993,
+    "rank": 341,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Let It Be",
+    "artist": "The Beatles",
+    "label": "Apple",
+    "year": 1970,
+    "rank": 342,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Greatest Hits",
+    "artist": "Sly and the Family Stone",
+    "label": "Epic",
+    "year": 1970,
+    "rank": 343,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Funky Kingston",
+    "artist": "Toots and the Maytals",
+    "label": "Island",
+    "year": 1973,
+    "rank": 344,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "The Wild",
+    "artist": "Bruce Springsteen",
+    "label": "Columbia",
+    "year": 1973,
+    "rank": 345,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "AM",
+    "artist": "Arctic Monkeys",
+    "label": "Domino",
+    "year": 2013,
+    "rank": 346,
+    "chosenBefore": false,
+    "youTubeLink": ""
+  },
+  {
+    "album": "Liquid Swords",
+    "artist": "GZA",
+    "label": "Geffen",
+    "year": 1995,
+    "rank": 347,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=5fk_fvZs1t4"
+  },
+  {
+    "album": "Time (The Revelator)",
+    "artist": "Gillian Welch",
+    "label": "Acony",
+    "year": 2001,
+    "rank": 348,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Kick Out the Jams",
+    "artist": "MC5",
+    "label": "Elektra",
+    "year": 1969,
+    "rank": 349,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=OXxsyhpTeJQ"
+  },
+  {
+    "album": "Music of My Mind",
+    "artist": "Stevie Wonder",
+    "label": "Tamla/Motown",
+    "year": 1972,
+    "rank": 350,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=O5o97EEehfY"
+  },
+  {
+    "album": "For Your Pleasure",
+    "artist": "Roxy Music",
+    "label": "Warner Bros.",
+    "year": 1973,
+    "rank": 351,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=XUhYAcgmTtU"
+  },
+  {
+    "album": "The Slim Shady LP",
+    "artist": "Eminem",
+    "label": "Interscope",
+    "year": 1999,
+    "rank": 352,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=TJP__WuRUzU"
+  },
+  {
+    "album": "The Cars",
+    "artist": "The Cars",
+    "label": "Elektra",
+    "year": 1978,
+    "rank": 353,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=ZTkH1kP_kx4"
+  },
+  {
+    "album": "Germfree Adolescents",
+    "artist": "X-Ray Spex",
+    "label": "EMI",
+    "year": 1978,
+    "rank": 354,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=OcPT18Yejv8"
+  },
+  {
+    "album": "Black Sabbath",
+    "artist": "Black Sabbath",
+    "label": "Warner Bros.",
+    "year": 1970,
+    "rank": 355,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Gris-Gris",
+    "artist": "Dr. John",
+    "label": "Atco",
+    "year": 1968,
+    "rank": 356,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Rain Dogs",
+    "artist": "Tom Waits",
+    "label": "Island",
+    "year": 1985,
+    "rank": 357,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Goo",
+    "artist": "Sonic Youth",
+    "label": "Geffen",
+    "year": 1990,
+    "rank": 358,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Radio City",
+    "artist": "Big Star",
+    "label": "Ardent",
+    "year": 1974,
+    "rank": 359,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "One Nation Under a Groove",
+    "artist": "Funkadelic",
+    "label": "Warner Bros.",
+    "year": 1978,
+    "rank": 360,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=GmDNMx9FRgI"
+  },
+  {
+    "album": "The Black Parade",
+    "artist": "My Chemical Romance",
+    "label": "Reprise",
+    "year": 2006,
+    "rank": 361,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=3D0K9QOyN2w"
+  },
+  {
+    "album": "Never Too Much",
+    "artist": "Luther Vandross",
+    "label": "Epic",
+    "year": 1981,
+    "rank": 362,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=xXYduHDZJik"
+  },
+  {
+    "album": "The Mothership Connection",
+    "artist": "Parliament",
+    "label": "Casablanca",
+    "year": 1975,
+    "rank": 363,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=EAaMCh8Xy14"
+  },
+  {
+    "album": "More Songs About Buildings and Food",
+    "artist": "Talking Heads",
+    "label": "Sire",
+    "year": 1978,
+    "rank": 364,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Madvillainy",
+    "artist": "Madvillain",
+    "label": "Stones Throw",
+    "year": 2004,
+    "rank": 365,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=WffJfQPp7kE"
+  },
+  {
+    "album": "Rocks",
+    "artist": "Aerosmith",
+    "label": "Columbia",
+    "year": 1976,
+    "rank": 366,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=cw1Tqsm0Wlg"
+  },
+  {
+    "album": "If Youre Reading This Its Too Late",
+    "artist": "Drake",
+    "label": "Cash Money",
+    "year": 2015,
+    "rank": 367,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "All Things Must Pass",
+    "artist": "George Harrison",
+    "label": "Apple",
+    "year": 1970,
+    "rank": 368,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "The Infamous",
+    "artist": "Mobb Deep",
+    "label": "Loud",
+    "year": 1995,
+    "rank": 369,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=zuGyil7hdwU"
+  },
+  {
+    "album": "Tha Carter II",
+    "artist": "Lil Wayne",
+    "label": "Cash Money/Universal",
+    "year": 2005,
+    "rank": 370,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Anthology",
+    "artist": "The Temptations",
+    "label": "Tamla/Motown",
+    "year": 1973,
+    "rank": 371,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Cheap Thrills",
+    "artist": "Big Brother and the Holding Company",
+    "label": "Columbia",
+    "year": 1968,
+    "rank": 372,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=8tvNbxvVGEU"
+  },
+  {
+    "album": "Hot Buttered Soul",
+    "artist": "Isaac Hayes",
+    "label": "Enterprise",
+    "year": 1969,
+    "rank": 373,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=dVCMyOaIKI0"
+  },
+  {
+    "album": "King of the Delta Blues Singers",
+    "artist": "Robert Johnson",
+    "label": "Columbia",
+    "year": 1961,
+    "rank": 374,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Dookie",
+    "artist": "Green Day",
+    "label": "Reprise",
+    "year": 1994,
+    "rank": 375,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=koyYZc6hS-s"
+  },
+  {
+    "album": "In the Aeroplane Over the Sea",
+    "artist": "Neutral Milk Hotel",
+    "label": "Merge",
+    "year": 1998,
+    "rank": 376,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Fever to Tell",
+    "artist": "Yeah Yeah Yeahs",
+    "label": "Interscope",
+    "year": 2003,
+    "rank": 377,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Run-D.M.C.",
+    "artist": "Run-DMC",
+    "label": "Profile",
+    "year": 1983,
+    "rank": 378,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Moving Pictures",
+    "artist": "Rush",
+    "label": "Anthem",
+    "year": 1981,
+    "rank": 379,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=iAIxUvd8gWo"
+  },
+  {
+    "album": "Mingus Ah Um",
+    "artist": "Charles Mingus",
+    "label": "Columbia",
+    "year": 1959,
+    "rank": 380,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=kqOJ6UI6_3w"
+  },
+  {
+    "album": "(Pronounced Lĕh-nérd Skin-nérd)",
+    "artist": "Lynyrd Skynyrd",
+    "label": "MCA",
+    "year": 1973,
+    "rank": 381,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Currents",
+    "artist": "Tame Impala",
+    "label": "Interscope",
+    "year": 2015,
+    "rank": 382,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Mezzanine",
+    "artist": "Massive Attack",
+    "label": "Circa/Virgin",
+    "year": 1998,
+    "rank": 383,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=ORxdyjvfItk"
+  },
+  {
+    "album": "The Kinks Are the Village Green Preservation Society",
+    "artist": "The Kinks",
+    "label": "Reprise",
+    "year": 1969,
+    "rank": 384,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Rocket to Russia",
+    "artist": "Ramones",
+    "label": "Sire",
+    "year": 1977,
+    "rank": 385,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Donuts",
+    "artist": "J Dilla",
+    "label": "Stones Throw",
+    "year": 2006,
+    "rank": 386,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=crZF0YNORIY"
+  },
+  {
+    "album": "In Rainbows",
+    "artist": "Radiohead",
+    "label": "XL",
+    "year": 2007,
+    "rank": 387,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Young",
+    "artist": "Aretha Franklin",
+    "label": "Atlantic",
+    "year": 1972,
+    "rank": 388,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=LUOCJrrKjI4"
+  },
+  {
+    "album": "The Emancipation of Mimi",
+    "artist": "Mariah Carey",
+    "label": "Island",
+    "year": 2005,
+    "rank": 389,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Surfer Rosa",
+    "artist": "Pixies",
+    "label": "4AD",
+    "year": 1988,
+    "rank": 390,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Kaleidoscope",
+    "artist": "Kelis",
+    "label": "Virgin",
+    "year": 1999,
+    "rank": 391,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Proud Mary: The Best of Ike and Tina Turner",
+    "artist": "Ike and Tina Turner",
+    "label": "EMI",
+    "year": 1991,
+    "rank": 392,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "1989",
+    "artist": "Taylor Swift",
+    "label": "Big Machine",
+    "year": 2014,
+    "rank": 393,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Diana",
+    "artist": "Diana Ross",
+    "label": "Motown",
+    "year": 1980,
+    "rank": 394,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Black Messiah",
+    "artist": "D’Angelo and the Vanguard",
+    "label": "RCA",
+    "year": 2014,
+    "rank": 395,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=sSjtGqRXQ9Y"
+  },
+  {
+    "album": "Something/Anything?",
+    "artist": "Todd Rundgren",
+    "label": "Bearsville",
+    "year": 1972,
+    "rank": 396,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=4TGsuHLWmc4"
+  },
+  {
+    "album": "When We All Fall Asleep",
+    "artist": "Billie Eilish",
+    "label": "Interscope",
+    "year": 2019,
+    "rank": 397,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=5Tb8tTCSQPs"
+  },
+  {
+    "album": "The Raincoats",
+    "artist": "The Raincoats",
+    "label": "Rough Trade",
+    "year": 1979,
+    "rank": 398,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Smile",
+    "artist": "Brian Wilson",
+    "label": "Nonesuch",
+    "year": 2004,
+    "rank": 399,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Beauty and the Beat",
+    "artist": "The Go-Go’s",
+    "label": "I.R.S.",
+    "year": 1981,
+    "rank": 400,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Blondie",
+    "artist": "Blondie",
+    "label": "Private Stock",
+    "year": 1977,
+    "rank": 401,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Expensive Shit",
+    "artist": "Fela Kuti and Africa 70",
+    "label": "Sounds Workshop",
+    "year": 1975,
+    "rank": 402,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=yUNkimxj0Vo"
+  },
+  {
+    "album": "Supreme Clientele",
+    "artist": "Ghostface Killah",
+    "label": "Epic",
+    "year": 2000,
+    "rank": 403,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Rapture",
+    "artist": "Anita Baker",
+    "label": "Elektra",
+    "year": 1986,
+    "rank": 404,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=jqZjsscpj1E"
+  },
+  {
+    "album": "Nuggets: Original Artyfacts from the First Psychedelic Era",
+    "artist": "Various",
+    "label": "Elektra",
+    "year": 1972,
+    "rank": 405,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=Gf78ol1YwXE"
+  },
+  {
+    "album": "69 Love Songs",
+    "artist": "Magnetic Fields",
+    "label": "Merge",
+    "year": 1999,
+    "rank": 406,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Everybody Knows This Is Nowhere",
+    "artist": "Neil Young",
+    "label": "Reprise",
+    "year": 1969,
+    "rank": 407,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Ace of Spades",
+    "artist": "Motörhead",
+    "label": "Bronze",
+    "year": 1980,
+    "rank": 408,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=F5Kc9Fcm0Cw"
+  },
+  {
+    "album": "Workingman’s Dead",
+    "artist": "Grateful Dead",
+    "label": "Warner Bros.",
+    "year": 1970,
+    "rank": 409,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=TUOKXibHpbA"
+  },
+  {
+    "album": "Wild Honey",
+    "artist": "The Beach Boys",
+    "label": "Capitol",
+    "year": 1967,
+    "rank": 410,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=vWPtfhdnes8"
+  },
+  {
+    "album": "Love and Theft",
+    "artist": "Bob Dylan",
+    "label": "Columbia",
+    "year": 2001,
+    "rank": 411,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Going to a Go Go",
+    "artist": "Smokey Robinson and the Miracles",
+    "label": "Tamla/Motown",
+    "year": 1965,
+    "rank": 412,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Cosmos Factory",
+    "artist": "Creedence Clearwater Revival",
+    "label": "Fantasy",
+    "year": 1970,
+    "rank": 413,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=Gy--CbN9__k"
+  },
+  {
+    "album": "Risqué",
+    "artist": "Chic",
+    "label": "Atlantic",
+    "year": 1979,
+    "rank": 414,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=JpWuR4ASUiI"
+  },
+  {
+    "album": "Looka Py Py",
+    "artist": "The Meters",
+    "label": "Josie",
+    "year": 1969,
+    "rank": 415,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Things Fall Apart",
+    "artist": "The Roots",
+    "label": "MCA",
+    "year": 1999,
+    "rank": 416,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=qQGtNA6WEao"
+  },
+  {
+    "album": "The Shape of Jazz to Come",
+    "artist": "Ornette Coleman",
+    "label": "Atlantic",
+    "year": 1959,
+    "rank": 417,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Brothers in Arms",
+    "artist": "Dire Straits",
+    "label": "Warner Bros.",
+    "year": 1985,
+    "rank": 418,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Chief",
+    "artist": "Eric Church",
+    "label": "EMI Nashville",
+    "year": 2011,
+    "rank": 419,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Wind and Fire",
+    "artist": "Earth",
+    "label": "Columbia",
+    "year": 1975,
+    "rank": 420,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Arular",
+    "artist": "M.I.A.",
+    "label": "Interscope",
+    "year": 2005,
+    "rank": 421,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Lets Get It On",
+    "artist": "Marvin Gaye",
+    "label": "Tamla/Motown",
+    "year": 1973,
+    "rank": 422,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=tQj1kPmQXwE"
+  },
+  {
+    "album": "I Can Hear the Heart Beating As One",
+    "artist": "Yo La Tengo",
+    "label": "Matador",
+    "year": 1997,
+    "rank": 423,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=38iyHpJtylg"
+  },
+  {
+    "album": "Odelay",
+    "artist": "Beck",
+    "label": "Geffen",
+    "year": 1996,
+    "rank": 424,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Paul Simon",
+    "artist": "Paul Simon",
+    "label": "Columbia",
+    "year": 1972,
+    "rank": 425,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Lucinda Williams",
+    "artist": "Lucinda Williams",
+    "label": "Rough Trade",
+    "year": 1988,
+    "rank": 426,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Call Me",
+    "artist": "Al Green",
+    "label": "Hi",
+    "year": 1973,
+    "rank": 427,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=csZV3w_nscg"
+  },
+  {
+    "album": "New Day Rising",
+    "artist": "Hüsker Dü",
+    "label": "SST",
+    "year": 1985,
+    "rank": 428,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Reach Out",
+    "artist": "The Four Tops",
+    "label": "Tamla/Motown",
+    "year": 1967,
+    "rank": 429,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "My Aim Is True",
+    "artist": "Elvis Costello",
+    "label": "Columbia",
+    "year": 1977,
+    "rank": 430,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=skdpnyd_SWE"
+  },
+  {
+    "album": "How Will the Wolf Survive?",
+    "artist": "Los Lobos",
+    "label": "Slash/Warner Bros.",
+    "year": 1984,
+    "rank": 431,
+    "chosenBefore": false,
+    "youTubeLink": ""
+  },
+  {
+    "album": "Confessions",
+    "artist": "Usher",
+    "label": "Arista",
+    "year": 2004,
+    "rank": 432,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Sound of Silver",
+    "artist": "LCD Soundsystem",
+    "label": "DFA/Capitol",
+    "year": 2007,
+    "rank": 433,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=4kPyjUMmCL4"
+  },
+  {
+    "album": "Crooked Rain",
+    "artist": "Pavement",
+    "label": "Matador",
+    "year": 1994,
+    "rank": 434,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=kiPaMkgG1oo"
+  },
+  {
+    "album": "Actually",
+    "artist": "Pet Shop Boys",
+    "label": "EMI Manhattan",
+    "year": 1987,
+    "rank": 435,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "All Eyez on Me",
+    "artist": "2Pac",
+    "label": "Death Row",
+    "year": 1996,
+    "rank": 436,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Screamadelica",
+    "artist": "Primal Scream",
+    "label": "Sire",
+    "year": 1991,
+    "rank": 437,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Parklife",
+    "artist": "Blur",
+    "label": "Food",
+    "year": 1994,
+    "rank": 438,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Sex Machine",
+    "artist": "James Brown",
+    "label": "King",
+    "year": 1970,
+    "rank": 439,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=S0ac4SpC_qs"
+  },
+  {
+    "album": "Coal Miners Daughter",
+    "artist": "Loretta Lynn",
+    "label": "Decca",
+    "year": 1971,
+    "rank": 440,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Blackout",
+    "artist": "Britney Spears",
+    "label": "Jive",
+    "year": 2007,
+    "rank": 441,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Beauty Behind the Madness",
+    "artist": "The Weeknd",
+    "label": "XO",
+    "year": 2015,
+    "rank": 442,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Scary Monsters",
+    "artist": "David Bowie",
+    "label": "RCA",
+    "year": 1980,
+    "rank": 443,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=HkMn_n5KzCc"
+  },
+  {
+    "album": "Extraordinary Machine",
+    "artist": "Fiona Apple",
+    "label": "Epic",
+    "year": 2005,
+    "rank": 444,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Close to the Edge",
+    "artist": "Yes",
+    "label": "Atlantic",
+    "year": 1972,
+    "rank": 445,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=WRSugblInEY"
+  },
+  {
+    "album": "Journey in Satchidanada",
+    "artist": "Alice Coltrane",
+    "label": "Impulse!",
+    "year": 1971,
+    "rank": 446,
+    "chosenBefore": false,
+    "youTubeLink": ""
+  },
+  {
+    "album": "X 100pre",
+    "artist": "Bad Bunny",
+    "label": "Rimas",
+    "year": 2018,
+    "rank": 447,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=g3awUVuh20I"
+  },
+  {
+    "album": "Dictionary of Soul",
+    "artist": "Otis Redding",
+    "label": "Volt",
+    "year": 1966,
+    "rank": 448,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Elephant",
+    "artist": "The White Stripes",
+    "label": "V2/XL/Third Man",
+    "year": 2003,
+    "rank": 449,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Ram",
+    "artist": "Paul and Linda McCartney",
+    "label": "Apple",
+    "year": 1971,
+    "rank": 450,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "First Take",
+    "artist": "Roberta Flack",
+    "label": "Atlantic",
+    "year": 1969,
+    "rank": 451,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Anthology",
+    "artist": "Diana Ross and the Supremes",
+    "label": "Tamla/Motown",
+    "year": 1974,
+    "rank": 452,
+    "chosenBefore": true,
+    "youTubeLink": ""
+  },
+  {
+    "album": "Pretty Hate Machine",
+    "artist": "Nine Inch Nails",
+    "label": "TVT",
+    "year": 1989,
+    "rank": 453,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Ege Bamyasi",
+    "artist": "Can",
+    "label": "United Artists",
+    "year": 1972,
+    "rank": 454,
+    "chosenBefore": false,
+    "youTubeLink": ""
+  },
+  {
+    "album": "Bo Diddley/Go Bo Diddley",
+    "artist": "Bo Diddley",
+    "label": "Chess",
+    "year": 1958,
+    "rank": 455,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Greatest Hits",
+    "artist": "Al Green",
+    "label": "Hi/EMI",
+    "year": 1975,
+    "rank": 456,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=csZV3w_nscg"
+  },
+  {
+    "album": "I Do Not Want What I Haven’t Got",
+    "artist": "Sinéad O’Connor",
+    "label": "Ensign/Chrysalis",
+    "year": 1990,
+    "rank": 457,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Southeastern",
+    "artist": "Jason Isbell",
+    "label": "Southeastern",
+    "year": 2013,
+    "rank": 458,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Man on the Moon: The End of the Day",
+    "artist": "Kid Cudi",
+    "label": "Dream On",
+    "year": 2009,
+    "rank": 459,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=IfvIuc-11QQ"
+  },
+  {
+    "album": "Melodrama",
+    "artist": "Lorde",
+    "label": "Universal",
+    "year": 2017,
+    "rank": 460,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "For Emma",
+    "artist": "Bon Iver",
+    "label": "Jagjaguwar",
+    "year": 2008,
+    "rank": 461,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=AaUQ6ToaPqw"
+  },
+  {
+    "album": "The Gilded Palace of Sin",
+    "artist": "The Flying Burrito Brothers",
+    "label": "A&M",
+    "year": 1969,
+    "rank": 462,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=zC3YNUmIvuA"
+  },
+  {
+    "album": "Eli &amp; the 13th Confession",
+    "artist": "Laura Nyro",
+    "label": "Columbia",
+    "year": 1968,
+    "rank": 463,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=_kPrm5uHz0Y"
+  },
+  {
+    "album": "3 + 3",
+    "artist": "The Isley Brothers",
+    "label": "T-Neck",
+    "year": 1973,
+    "rank": 464,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "The Best of the Classic Years",
+    "artist": "King Sunny Adé",
+    "label": "Shanachie",
+    "year": 2003,
+    "rank": 465,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "The Beach  Boys Today!",
+    "artist": "The Beach Boys",
+    "label": "Capitol",
+    "year": 1965,
+    "rank": 466,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=WOQ-tn5OmPQ"
+  },
+  {
+    "album": "BLACKsummers’night",
+    "artist": "Maxwell",
+    "label": "Columbia",
+    "year": 2009,
+    "rank": 467,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=Zig0cfRdqsE"
+  },
+  {
+    "album": "Some Girls",
+    "artist": "The Rolling Stones",
+    "label": "Rolling Stones",
+    "year": 1978,
+    "rank": 468,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Clandestino",
+    "artist": "Manu Chao",
+    "label": "Virgin",
+    "year": 1998,
+    "rank": 469,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "400 Degreez",
+    "artist": "Juvenile",
+    "label": "Cash Money",
+    "year": 1998,
+    "rank": 470,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Surrealistic Pillow",
+    "artist": "Jefferson Airplane",
+    "label": "RCA",
+    "year": 1967,
+    "rank": 471,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=WANNqr-vcx0"
+  },
+  {
+    "album": "Ctrl",
+    "artist": "SZA",
+    "label": "RCA",
+    "year": 2017,
+    "rank": 472,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=oUzIlVuGdtE"
+  },
+  {
+    "album": "Barrio Fino",
+    "artist": "Daddy Yankee",
+    "label": "V.I. Music",
+    "year": 2004,
+    "rank": 473,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=PXsqLWqOwCU"
+  },
+  {
+    "album": "#1 Record",
+    "artist": "Big Star",
+    "label": "Ardent",
+    "year": 1972,
+    "rank": 474,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Sheryl Crow",
+    "artist": "Sheryl Crow",
+    "label": "A&amp;M",
+    "year": 1996,
+    "rank": 475,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=XTMaCbnUhwY"
+  },
+  {
+    "album": "Kimono My House",
+    "artist": "Sparks",
+    "label": "Island",
+    "year": 1974,
+    "rank": 476,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Moanin in the Moonlight",
+    "artist": "Howlin’ Wolf",
+    "label": "Chess",
+    "year": 1959,
+    "rank": 477,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=OSN3LiRz-Ik"
+  },
+  {
+    "album": "Something Else by the Kinks",
+    "artist": "The Kinks",
+    "label": "Pye",
+    "year": 1968,
+    "rank": 478,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Amor Prohibido",
+    "artist": "Selena",
+    "label": "EMA Latin",
+    "year": 1994,
+    "rank": 479,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "The Weight of These Wings",
+    "artist": "Miranda Lambert",
+    "label": "eRCA Nashville",
+    "year": 2016,
+    "rank": 480,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=Ux0HqX74biM"
+  },
+  {
+    "album": "If You’re Feeling Sinister",
+    "artist": "Belle and Sebastian",
+    "label": "Jeepster",
+    "year": 1996,
+    "rank": 481,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Bizarre Ride II the Pharcyde",
+    "artist": "The Pharcyde",
+    "label": "Delicious Vinyl",
+    "year": 1992,
+    "rank": 482,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=qh8SQuokdLQ"
+  },
+  {
+    "album": "The Anthology",
+    "artist": "Muddy Waters",
+    "label": "MCA",
+    "year": 2001,
+    "rank": 483,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Born This Way",
+    "artist": "Lady Gaga",
+    "label": "Interscope",
+    "year": 2011,
+    "rank": 484,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "I Want to See the Bright Lights Tonight",
+    "artist": "Richard and Linda Thompson",
+    "label": "Island",
+    "year": 1974,
+    "rank": 485,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Continuum",
+    "artist": "John Mayer",
+    "label": "Columbia",
+    "year": 2006,
+    "rank": 486,
+    "chosenBefore": false,
+    "youTubeLink": null
+  },
+  {
+    "album": "Damaged",
+    "artist": "Black Flag",
+    "label": "SST",
+    "year": 1981,
+    "rank": 487,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "The Stooges",
+    "artist": "The Stooges",
+    "label": "Elektra",
+    "year": 1969,
+    "rank": 488,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=a9jPIf_V-70"
+  },
+  {
+    "album": "Back to Mono (1958-1969)",
+    "artist": "Phil Spector and Various Artists",
+    "label": "ABKCO",
+    "year": 1991,
+    "rank": 489,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Heart Like a Wheel",
+    "artist": "Linda Ronstadt",
+    "label": "Capitol",
+    "year": 1975,
+    "rank": 490,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Fine Line",
+    "artist": "Harry Styles",
+    "label": "Columbia",
+    "year": 2019,
+    "rank": 491,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=wWGycPXelLs"
+  },
+  {
+    "album": "Nick of Time",
+    "artist": "Bonnie Raitt",
+    "label": "Capitol",
+    "year": 1989,
+    "rank": 492,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Here",
+    "artist": "Marvin Gaye",
+    "label": "Tamla/Motown",
+    "year": 1978,
+    "rank": 493,
+    "chosenBefore": true,
+    "youTubeLink": "https://www.youtube.com/watch?v=Z3W72GieZp4"
+  },
+  {
+    "album": "Presenting the Fabulous Ronettes",
+    "artist": "The Ronettes",
+    "label": "Philles",
+    "year": 1964,
+    "rank": 494,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "II",
+    "artist": "Boyz II Men",
+    "label": "Motown",
+    "year": 1991,
+    "rank": 495,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Dónde Están los Ladrones",
+    "artist": "Shakira",
+    "label": "Columbia",
+    "year": 1998,
+    "rank": 496,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "The Indestructible Beat of Soweto",
+    "artist": "Various Artists",
+    "label": "Earthworks",
+    "year": 1985,
+    "rank": 497,
+    "chosenBefore": false,
+    "youTubeLink": ""
+  },
+  {
+    "album": "Suicide",
+    "artist": "Suicide",
+    "label": "Red Star",
+    "year": 1977,
+    "rank": 498,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Chaka Khan",
+    "artist": "Rufus",
+    "label": "ABC",
+    "year": 1977,
+    "rank": 499,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  },
+  {
+    "album": "Funeral",
+    "artist": "Arcade Fire",
+    "label": "Merge",
+    "year": 2004,
+    "rank": 500,
+    "chosenBefore": false,
+    "youTubeLink": "https://www.youtube.com/watch?v="
+  }
+]
