@@ -40,7 +40,7 @@ namespace AlbumJsonUpdater
                 randomAlbum.chosenBefore = true;
 
                 string youTubeAlbumSearch = $"{randomAlbum.album} by {randomAlbum.artist} Full Album HD";
-                string apiKey = "AIzaSyByhgO8HqPmLNG07MiIN_uPuivdZswKP7k";
+                string apiKey = "SECRET";
                 randomAlbum.youTubeLink = await GetYouTubeLinkAsync(youTubeAlbumSearch, apiKey);
 
                 WriteAlbumsToJson(jsonFilePath, albums);
