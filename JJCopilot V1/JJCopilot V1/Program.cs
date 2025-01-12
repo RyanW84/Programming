@@ -369,7 +369,7 @@ namespace AlbumJsonUpdater
 
     public class YouTubeService : IYouTubeService
     {
-        private const string ApiKey = "AIzaSyByhgO8HqPmLNG07MiIN_uPuivdZswKP7k";
+        private const string ApiKey = "SECRET";
 
         public async Task<string> GetYouTubeLinkAsync(string albumQuery)
         {
