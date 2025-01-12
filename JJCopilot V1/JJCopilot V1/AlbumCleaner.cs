@@ -1,75 +1,192 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Net.Http.Headers;
+using System.Text;
+using AlbumJsonUpdater;
 using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 
-namespace AlbumCleanerLibrary;
-
-public static class AlbumCleaner
+namespace AlbumCleanerLibrary
 {
-    private static List<Album> albums = new List<Album>(); // Initialize to avoid null
-    private static string jsonFilePath = string.Empty; // Initialize to avoid null
-
-    public static void Initialize(string filePath)
+    public static class AlbumCleaner
     {
-        jsonFilePath = filePath;
-        albums = ReadAlbumsFromJson(jsonFilePath) ?? new List<Album>(); // Handle possible null return
-    }
-
-    public static void CleanUp()
-    {
-        bool isUpdated = false;
-
-        foreach (var album in albums)
+        public static async Task CleanUpAsync(
+            IAlbumRepository albumRepository,
+            ISpotifyService spotifyService
+        )
         {
-            if (string.IsNullOrEmpty(album.youTubeLink) || album.youTubeLink == "https://www.youtube.com/watch?v=")
+            if (albumRepository == null)
+                throw new ArgumentNullException(nameof(albumRepository));
+            if (spotifyService == null)
+                throw new ArgumentNullException(nameof(spotifyService));
+
+            var albums = albumRepository.ReadAlbums();
+            var cleanedAlbums = new List<Album>();
+
+            foreach (var album in albums)
             {
-                isUpdated |= UpdateChosenBefore(album, false);
+                var cleanedAlbum = await CleanAlbumAsync(album, spotifyService);
+                cleanedAlbums.Add(cleanedAlbum);
             }
-            else if (!album.chosenBefore)
+
+            albumRepository.WriteAlbums(cleanedAlbums);
+        }
+
+        private static async Task<Album> CleanAlbumAsync(
+            Album album,
+            ISpotifyService spotifyService
+        )
+        {
+            var cleanedAlbum = new Album
             {
-                Console.WriteLine($"\nYouTube Link Valid: {album.youTubeLink}");
-                isUpdated |= UpdateChosenBefore(album, true);
+                album = album.album,
+                artist = album.artist,
+                label = album.label,
+                year = album.year,
+                rank = album.rank,
+                chosenBefore = album.chosenBefore,
+                youTubeLink = album.youTubeLink,
+                spotifyLink = album.spotifyLink,
+            };
+
+            if (cleanedAlbum.youTubeLink == "https://www.youtube.com/watch?v=")
+            {
+                cleanedAlbum.youTubeLink = string.Empty;
+                cleanedAlbum.chosenBefore = false;
             }
-        }
 
-        if (isUpdated)
+            if (string.IsNullOrEmpty(cleanedAlbum.spotifyLink))
+            {
+                try
+                {
+                    cleanedAlbum.spotifyLink = await spotifyService.GetSpotifyLinkAsync(
+                        cleanedAlbum.album
+                    );
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"Error fetching Spotify link: {ex.Message}");
+                }
+            }
+
+            return cleanedAlbum;
+        }
+    }
+
+    public static class AlbumStatistics
+    {
+        public static int CountInvalidYouTubeLinks(List<Album> albums)
         {
-            WriteAlbumsToJson(jsonFilePath, albums);
-            Console.WriteLine("JSON Updated");
+            var count = 0;
+            foreach (var album in albums)
+            {
+                if (
+                    string.IsNullOrEmpty(album.youTubeLink)
+                    || album.youTubeLink == "https://www.youtube.com/watch?v="
+                )
+                {
+                    count++;
+                }
+            }
+            return count;
         }
-    }
 
-    private static bool UpdateChosenBefore(Album album, bool status)
-    {
-        if (album.chosenBefore != status)
+        public static void DisplayAlbumStatistics(List<Album> albums)
         {
-            album.chosenBefore = status;
-            return true;
+            var invalidYouTubeLinkCount = CountInvalidYouTubeLinks(albums);
+            Console.WriteLine($"Albums without a valid YouTube link: {invalidYouTubeLinkCount}");
         }
-        return false;
     }
 
-    private static List<Album> ReadAlbumsFromJson(string filePath)
+    public class SpotifyService : ISpotifyService
     {
-        string jsonString = File.ReadAllText(filePath);
-        return JsonConvert.DeserializeObject<List<Album>>(jsonString) ?? new List<Album>(); // Handle possible null return
+        private const string ClientId = "8ccefa031b2944eca468232a158e9bcf";
+        private const string ClientSecret = "7b066ee2e2324b6aa8456414fbc67d8f";
+
+        public async Task<string> GetSpotifyLinkAsync(string albumQuery)
+        {
+            var token = await GetOAuthTokenAsync();
+            if (string.IsNullOrEmpty(token))
+            {
+                return string.Empty;
+            }
+
+            var url =
+                $"https://api.spotify.com/v1/search?q={Uri.EscapeDataString(albumQuery)}&type=album&limit=1";
+
+            using var client = new HttpClient();
+            client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue(
+                "Bearer",
+                token
+            );
+
+            var response = await client.GetAsync(url);
+            if (!response.IsSuccessStatusCode)
+            {
+                Console.WriteLine($"Error: {response.StatusCode}");
+                return string.Empty;
+            }
+
+            var jsonResponse = await response.Content.ReadAsStringAsync();
+            var jsonResult = JObject.Parse(jsonResponse);
+
+            var album = jsonResult["albums"]?["items"]?.First;
+            if (album == null)
+            {
+                Console.WriteLine("No results found.");
+                return string.Empty;
+            }
+
+            var spotifyLink = album["external_urls"]?["spotify"]?.ToString();
+            return spotifyLink ?? string.Empty;
+        }
+
+        private async Task<string> GetOAuthTokenAsync()
+        {
+            var url = "https://accounts.spotify.com/api/token";
+            var credentials = Convert.ToBase64String(
+                Encoding.UTF8.GetBytes($"{ClientId}:{ClientSecret}")
+            );
+
+            using var client = new HttpClient();
+            client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue(
+                "Basic",
+                credentials
+            );
+
+            var request = new HttpRequestMessage(HttpMethod.Post, url)
+            {
+                Content = new StringContent(
+                    "grant_type=client_credentials",
+                    Encoding.UTF8,
+                    "application/x-www-form-urlencoded"
+                ),
+            };
+
+            var response = await client.SendAsync(request);
+            if (!response.IsSuccessStatusCode)
+            {
+                Console.WriteLine($"Error: {response.StatusCode}");
+                return string.Empty;
+            }
+
+            var jsonResponse = await response.Content.ReadAsStringAsync();
+            var jsonResult = JObject.Parse(jsonResponse);
+
+            return jsonResult["access_token"]?.ToString() ?? string.Empty;
+        }
     }
 
-    private static void WriteAlbumsToJson(string filePath, List<Album> albums)
+    public interface ISpotifyService
     {
-        string jsonString = JsonConvert.SerializeObject(albums, Formatting.Indented);
-        File.WriteAllText(filePath, jsonString);
+        Task<string> GetSpotifyLinkAsync(string albumQuery);
     }
 
-    public class Album
+    public interface IAlbumRepository
     {
-        public string album { get; set; } = string.Empty; // Initialize to avoid null
-        public string artist { get; set; } = string.Empty; // Initialize to avoid null
-        public string label { get; set; } = string.Empty; // Initialize to avoid null
-        public int year { get; set; }
-        public int rank { get; set; }
-        public bool chosenBefore { get; set; }
-        public string youTubeLink { get; set; } = string.Empty; // Initialize to avoid null
+        List<Album> ReadAlbums();
+        void WriteAlbums(List<Album> albums);
+        void WriteAlbum(Album updatedAlbum);
     }
 }
