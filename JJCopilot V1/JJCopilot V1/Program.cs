@@ -417,8 +417,8 @@ namespace AlbumJsonUpdater
 
     public class SpotifyService : ISpotifyService
     {
-        private const string ClientId = "8ccefa031b2944eca468232a158e9bcf";
-        private const string ClientSecret = "7b066ee2e2324b6aa8456414fbc67d8f";
+        private const string ClientId = "SECRET";
+        private const string ClientSecret = "SECRET";
         private string _accessToken;
         private Timer _tokenRefreshTimer;
 
