@@ -1,4 +1,6 @@
-﻿namespace FCC_TestProject1;
+﻿using System;
+
+namespace FCC_TestProject1;
 
 internal class Program
 {
@@ -51,5 +53,30 @@ internal class Program
         Random adice = new Random();
         int aRoll = adice.Next(1, 10);
         Console.WriteLine(aRoll);
+
+        int number = 7;
+        string text = "seven";
+
+        Console.WriteLine(number);
+        Console.WriteLine();
+        Console.WriteLine(text);
+
+        Random bdice = new Random();
+        int roll1 = bdice.Next();
+        int roll2 = bdice.Next(101);
+        int roll3 = bdice.Next(50, 101);
+
+        Console.WriteLine($"First roll: {roll1}");
+        Console.WriteLine($"Second roll: {roll2}");
+        Console.WriteLine($"Third roll: {roll3}");
+
+        dice = new Random();
+        dice.GetHashCode();
+
+        int firstValue = 500;
+        int secondValue = 600;
+        int largerValue = System.Math.Max(firstValue, secondValue);
+
+        Console.WriteLine($"The larger value is: {largerValue}");
     }
 }

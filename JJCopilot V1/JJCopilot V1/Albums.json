@@ -2865,7 +2865,7 @@
     "label": "Columbia",
     "year": 1965,
     "rank": 287,
-    "chosenBefore": false,
+    "chosenBefore": true,
     "youTubeLink": "https://www.youtube.com/watch?v=Swqw5a8I4b4",
     "spotifyLink": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa"
   },
@@ -3055,7 +3055,7 @@
     "label": "Hi",
     "year": 1972,
     "rank": 306,
-    "chosenBefore": false,
+    "chosenBefore": true,
     "youTubeLink": "https://www.youtube.com/watch?v=Tg_Guhd6fEY",
     "spotifyLink": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
   },
